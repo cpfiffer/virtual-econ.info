@@ -1,1 +1,5 @@
+title: Virtual Economics
+description: [Digital resources for the socially-distanced economist in your life.]
 theme: jekyll-theme-cayman
+plugins:
+      - jekyll-seo-tag
