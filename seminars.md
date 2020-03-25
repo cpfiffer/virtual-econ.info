@@ -55,3 +55,9 @@ A regular open online international and inter-institutional macroeconomics semin
 - [Upcoming seminars](https://sites.google.com/view/virtualmacro/#h.1pe069uqbmfu)
 - [Twitter](https://twitter.com/virtualmacrosem)
 
+### HELP! (HEaLth and Pandemics) Econ Working Group
+
+The HELP! (HEaLth and Pandemics) Econ working group aims at connecting people working on health and pandemics across different research institutions and fields. It will do so by hosting a weekly Zoom seminar where scholars present their ideas, including those at a preliminary stage, and connecting initiatives, including data collection, policy discussions, and research papers.
+
+- [Website](https://sites.google.com/umn.edu/econhelp-workinggroup/home)
+- [Mailing list](https://groups.google.com/forum/#!forum/economics-of-health-and-pandemics)
