@@ -10,7 +10,7 @@
 
 - [Seminars](./seminars.html)
 - [Conferences](./conferences.html)
-- [Resources](./resourced.html)
+- [Resources](./resources.html)
 
 ## How to contribute
 
