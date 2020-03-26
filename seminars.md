@@ -69,6 +69,15 @@ A regular international causal inference seminar. All seminars are on Tuesdays a
 - [Website](https://sites.google.com/view/ocis/)
 - [Mailing list](https://www.google.com/url?q=https%3A%2F%2Fmailman.stanford.edu%2Fmailman%2Flistinfo%2Fonline-causal-inference-seminar&sa=D&sntz=1&usg=AFQjCNGgPMLB-5Iv0SRBiJHXlIhxo2ta2A)
 
+
+### Essen Health Economics Seminar Series | Virtual Edition
+
+We are planning to host our Health Econ seminar virtually in the upcoming semester. People need to sign up via email to the mailing list to get info about the series. We are just starting up the virtual format, so consider the format in development for the coming weeks. The seminar is jointly held by [CINCH Health Econ Research Center](https://cinch.uni-due.de/) and the [RWI Health Division](http://en.rwi-essen.de/lscr/forschungsbereiche).
+
+Here is the page of the past winter term: https://www.goek.wiwi.uni-due.de/en/research/mondays-seminar/winter-2019-20/ The summer program will be online soon.
+
+Send an email to [mondays-seminar@wiwinf.uni-due.de](mailto:mondays-seminar@wiwinf.uni-due.de) to subscribe to the mailing list.
+
 ### Webinar Series in Gender Economics
 
 This seminar series features 2019 job market papers in gender economics. The seminar is one
@@ -88,3 +97,4 @@ An online series of sport economics seminars, organised by James Reade, Carl Sin
 All Seminars take place at 2:30-4pm, UK time, and will take place on Microsoft Teams. Contact James Reade at [j.j.reade@reading.ac.uk](mailto:j.j.reade@reading.ac.uk) for joining instructions.
 
 - [Website](https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/)
+
