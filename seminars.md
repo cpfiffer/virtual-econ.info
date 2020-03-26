@@ -68,3 +68,9 @@ A regular international causal inference seminar. All seminars are on Tuesdays a
 
 - [Website](https://sites.google.com/view/ocis/)
 - [Mailing list](https://www.google.com/url?q=https%3A%2F%2Fmailman.stanford.edu%2Fmailman%2Flistinfo%2Fonline-causal-inference-seminar&sa=D&sntz=1&usg=AFQjCNGgPMLB-5Iv0SRBiJHXlIhxo2ta2A)
+
+### Essen Health Economics Seminar Series | Virtual Edition
+
+We are planning to host our Health Econ seminar virtually in the upcoming semester. People need to sign up via email to the mailing list to get info about the virtual seminar series. We are just starting up the virtual format, so consider the format still to develop in the next weeks. The seminar is jointly held by [CINCH Health Econ Research Center](https://cinch.uni-due.de/) and the [RWI Health Division](http://en.rwi-essen.de/lscr/forschungsbereiche).
+
+Here is the page of the past winter term: https://www.goek.wiwi.uni-due.de/en/research/mondays-seminar/winter-2019-20/ The summer program will be online soon.
