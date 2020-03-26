@@ -98,3 +98,10 @@ All Seminars take place at 2:30-4pm, UK time, and will take place on Microsoft T
 
 - [Website](https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/)
 
+### Rosenthal Memorial Lecture
+
+An annual lecture series at Boston University that's being held virtually. [Susan Athey](@Susan_Athey) will present “Platforms, Aggregators, and Intermediaries” 3/27 4-5:30 Eastern.  
+
+- [Website](https://www.bu.edu/econ/research/lectures/rosenthal/)
+- [Zoom link](https://bostonu.zoom.us/j/286857222)
+- [The Tweet](https://twitter.com/blipman58/status/1243187849081561090?s=20)
