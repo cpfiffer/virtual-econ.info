@@ -80,3 +80,11 @@ receive the weblink for this event.
 
 - [Schedule](https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view)
 - [The Tweet](https://twitter.com/johannarickne/status/1242816330874662913?s=20)
+
+### Reading Online Sport Economics Seminars (ROSES)
+
+An online series of sport economics seminars, organised by James Reade, Carl Singleton and Adrian Bell, part of the Football Research Group at the University of Reading.
+
+All Seminars take place at 2:30-4pm, UK time, and will take place on Microsoft Teams. Contact James Reade at [j.j.reade@reading.ac.uk](mailto:j.j.reade@reading.ac.uk) for joining instructions.
+
+- [Website](https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/)
