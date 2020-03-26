@@ -61,3 +61,10 @@ The HELP! (HEaLth and Pandemics) Econ working group aims at connecting people wo
 
 - [Website](https://sites.google.com/umn.edu/econhelp-workinggroup/home)
 - [Mailing list](https://groups.google.com/forum/#!forum/economics-of-health-and-pandemics)
+
+### Online Causal Inference Seminar
+
+A regular international causal inference seminar. All seminars are on Tuesdays at 8:30 am PT (11:30 am ET / 4:30 pm London / 5:30 pm Berlin). Presentations are 45 minutes over Zoom with a 15 minute discussant section.
+
+- [Website](https://sites.google.com/view/ocis/)
+- [Mailing list](https://www.google.com/url?q=https%3A%2F%2Fmailman.stanford.edu%2Fmailman%2Flistinfo%2Fonline-causal-inference-seminar&sa=D&sntz=1&usg=AFQjCNGgPMLB-5Iv0SRBiJHXlIhxo2ta2A)
