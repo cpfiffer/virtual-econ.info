@@ -68,3 +68,15 @@ A regular international causal inference seminar. All seminars are on Tuesdays a
 
 - [Website](https://sites.google.com/view/ocis/)
 - [Mailing list](https://www.google.com/url?q=https%3A%2F%2Fmailman.stanford.edu%2Fmailman%2Flistinfo%2Fonline-causal-inference-seminar&sa=D&sntz=1&usg=AFQjCNGgPMLB-5Iv0SRBiJHXlIhxo2ta2A)
+
+### Webinar Series in Gender Economics
+
+This seminar series features 2019 job market papers in gender economics. The seminar is one
+hour long, split into a 45-minute presentation and a 15-minute Q&A session. We will meet on
+Zoom on Mondays 3-4pm CET/9-10am EST. 
+
+Please e-mail [olle.folke@statsvet.uu.se](mailto:olle.folke@statsvet.uu.se) to
+receive the weblink for this event.
+
+- [Schedule](https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view)
+- [The Tweet](https://twitter.com/johannarickne/status/1242816330874662913?s=20)
