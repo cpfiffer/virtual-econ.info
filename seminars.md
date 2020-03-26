@@ -71,6 +71,8 @@ A regular international causal inference seminar. All seminars are on Tuesdays a
 
 ### Essen Health Economics Seminar Series | Virtual Edition
 
-We are planning to host our Health Econ seminar virtually in the upcoming semester. People need to sign up via email to the mailing list to get info about the virtual seminar series. We are just starting up the virtual format, so consider the format still to develop in the next weeks. The seminar is jointly held by [CINCH Health Econ Research Center](https://cinch.uni-due.de/) and the [RWI Health Division](http://en.rwi-essen.de/lscr/forschungsbereiche).
+We are planning to host our Health Econ seminar virtually in the upcoming semester. People need to sign up via email to the mailing list to get info about the series. We are just starting up the virtual format, so consider the format in development for the coming weeks. The seminar is jointly held by [CINCH Health Econ Research Center](https://cinch.uni-due.de/) and the [RWI Health Division](http://en.rwi-essen.de/lscr/forschungsbereiche).
 
 Here is the page of the past winter term: https://www.goek.wiwi.uni-due.de/en/research/mondays-seminar/winter-2019-20/ The summer program will be online soon.
+
+Send an email to [mondays-seminar@wiwinf.uni-due.de](mailto:mondays-seminar@wiwinf.uni-due.de) to subscribe to the mailing list.
