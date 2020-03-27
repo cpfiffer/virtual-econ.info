@@ -105,3 +105,12 @@ An annual lecture series at Boston University that's being held virtually. [Susa
 - [Website](https://www.bu.edu/econ/research/lectures/rosenthal/)
 - [Zoom link](https://bostonu.zoom.us/j/286857222)
 - [The Tweet](https://twitter.com/blipman58/status/1243187849081561090?s=20)
+
+### Online Economics of Crime Seminar
+
+This seminar series features empirical research related to criminal behavior and criminal justice policy. The one-hour seminar includes a 35-minute presentation by the author and 25 minutes for questions and discussion. It takes place on Zoom on Thursdays, 3:30-4:30pm Eastern Time. 
+
+This seminar is not open to the public but all researchers (including PhD students) are welcome to attend. Please email [jdoleac@tamu.edu](mailto:jdoleac@tamu.edu) to be added to the email list. 
+
+- [Website](http://jenniferdoleac.com/online-economics-of-crime-seminar/)
+- [Seminar schedule](http://jenniferdoleac.com/wp-content/uploads/2020/03/EconOfCrimeSeminar.pdf)
