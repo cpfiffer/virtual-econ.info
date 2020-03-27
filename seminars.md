@@ -14,10 +14,11 @@ Occurs Fridays at noon.
 - [Recorded seminars](https://www.chamberlainseminar.org/past-seminars)
 - [Speaker calendar](https://calendar.google.com/calendar/embed?color=%239fe1e7&src=chamberlainseminar@gmail.com)
 
-### CalTech Econ Theory
+### Caltech Econ Theory
 
-Occurs Wednesdays at noon, streamed on Twitch. 
+An online econ theory seminar. Recurs weekly on Wednesdays at noon pacific time. Live streamed on [twitch.tv/caltechecontheory](https://twitch.tv/caltechecontheory), where viewer questions are forwarded to the speaker. See updates on [twitter.com/CaltechEconThry](https://twitter.com/CaltechEconThry).
 
+- [Website](http://tamuz.caltech.edu/cettc/)
 - [Twitter](https://mobile.twitter.com/CaltechEconThry)
 - [Twitch stream](https://www.twitch.tv/caltechecontheory)
 
