@@ -120,11 +120,6 @@ This seminar is not open to the public but all researchers (including PhD studen
 
 The Coronavirus has caused uncertainty and volatility across global capital markets. To provide a forum for discussion of the potential impact and outlook for the economy and markets during this unprecedented time, the Mayo Center for Asset Management at the University of Virginia Darden School of Business and the Financial Management Association International will be hosting a virtual academic and practitioner seminar series on Fridays this April from 1:00-2:00 PM ET.
 
-The purpose of this virtual seminar series is two-fold:
-
-1. Given the unprecedented nature of the current situation, we believe that academic insights can offer tremendous value. The seminar series will bring top academic research and its relevance to a broader public forum. 
-2. This virtual seminar series will provide a venue for continued sharing of academic ideas of practical relevance in a time when travel to conferences and seminars has been significantly impacted. 
-
 Hosted on Zoom, each seminar will consist of 30 minutes of presentation by a speaker followed by 30 minutes of moderated Q&A.
 
 See [the website]([Website](https://www.fma.org/virtual-seminar)) for registration details.
