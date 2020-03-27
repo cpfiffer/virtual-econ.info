@@ -131,3 +131,9 @@ See [the website]([Website](https://www.fma.org/virtual-seminar)) for registrati
 
 - [Website](https://www.fma.org/virtual-seminar)
 
+### Cambridge Judge Finance Group
+
+Seminars to be held online for (at least) April. 
+
+- [The Tweet](https://twitter.com/pedrosaffi/status/1243645798983729152)
+- [Zoom link](https://zoom.us/j/496742494)
