@@ -11,6 +11,7 @@
 - [Seminars](./seminars.html)
 - [Conferences](./conferences.html)
 - [Resources](./resources.html)
+- The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
 
 ## How to contribute
 
