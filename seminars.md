@@ -137,3 +137,10 @@ Seminars to be held online for (at least) April.
 
 - [The Tweet](https://twitter.com/pedrosaffi/status/1243645798983729152)
 - [Zoom link](https://zoom.us/j/496742494)
+
+### Online Urban Economics Seminar
+
+Starts the week April 6th, 2020. To get on the email list, send an email to [econ.urban.envi.online@gmail.com](mailto:econ.urban.envi.online@gmail.com).
+
+- [Website](https://sites.google.com/view/urban-econ-online)
+- [The Tweet](https://twitter.com/ChrisSeveren/status/1243590528559652869?s=20)
