@@ -128,8 +128,14 @@ See [the website]([Website](https://www.fma.org/virtual-seminar)) for registrati
 
 ### Cambridge Judge Finance Group
 
-Seminars to be held online for (at least) April. 
+Due to the COVID-19 situation, all our regular research seminars have been shifted online and opened to a global audience. The Finance subject group at Cambridge Judge Business School would like to invite you to our online research seminar series
 
+Seminars occur at 2pm London time on Thursdays, though the seminar on Arpil 22nd will be on a Wednesday at 2pm.
+
+Zoom ID for April 2nd: 496 742 494
+Zoom ID for April 9th, 16th, and 22nd: 984 681 862 
+
+- [Speaker list](https://www.jbs.cam.ac.uk/faculty-research/subject-groups/finance/#item-8)
 - [The Tweet](https://twitter.com/pedrosaffi/status/1243645798983729152)
 - [Zoom link](https://zoom.us/j/496742494)
 
