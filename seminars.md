@@ -148,8 +148,7 @@ Starts the week April 6th, 2020. To get on the email list, send an email to [eco
 
 
 ### Real Estate Research Seminar
-Research seminars for estate finance and economics. First Thursday of the month, 4-5 pm UK. Organised by [Thies Lindenthal](@thies), Land Economy, University of Cambridge.
-- [The Tweet](https://twitter.com/ThiesLindenthal/status/1243975677067616256)
-- [Website](t.b.d.)
-- [Zoom link](t.b.d.)
 
+Research seminars for estate finance and economics. First Thursday of the month, 4-5 pm UK. Organised by [Thies Lindenthal](@thies), Land Economy, University of Cambridge.
+
+- [The Tweet](https://twitter.com/ThiesLindenthal/status/1243975677067616256)
