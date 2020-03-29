@@ -146,6 +146,13 @@ Starts the week April 6th, 2020. To get on the email list, send an email to [eco
 - [Website](https://sites.google.com/view/urban-econ-online)
 - [The Tweet](https://twitter.com/ChrisSeveren/status/1243590528559652869?s=20)
 
+
+### Real Estate Research Seminar
+
+Research seminars for estate finance and economics. First Thursday of the month, 4-5 pm UK. Organised by [Thies Lindenthal](@thies), Land Economy, University of Cambridge.
+
+- [The Tweet](https://twitter.com/ThiesLindenthal/status/1243975677067616256)
+
 ### DC Political Economy Center webinar series
 
 The DC Political Economy Center is starting the DCPEC webinar series. The idea is to have a Political Economy webinar that is open to all those interested, including faculty and graduate students. The DCPEC webinar will be on Fridays at 10:30am EST. It will take place on Zoom.
