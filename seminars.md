@@ -152,3 +152,14 @@ Starts the week April 6th, 2020. To get on the email list, send an email to [eco
 Research seminars for estate finance and economics. First Thursday of the month, 4-5 pm UK. Organised by [Thies Lindenthal](@thies), Land Economy, University of Cambridge.
 
 - [The Tweet](https://twitter.com/ThiesLindenthal/status/1243975677067616256)
+
+### DC Political Economy Center webinar series
+
+The DC Political Economy Center is starting the DCPEC webinar series. The idea is to have a Political Economy webinar that is open to all those interested, including faculty and graduate students. The DCPEC webinar will be on Fridays at 10:30am EST. It will take place on Zoom.
+
+The format of the webinars will be as follows: the speaker will have 60 minutes to present their research. During those 60 minutes, questions will be limited to clarifying questions. After that, there will be 15 minutes for general questions and discussions
+
+- [Website](https://sites.google.com/view/dcpec/events/webinar)
+- [Mailing list](https://forms.gle/yohLo3pk898Yq9Sf9)
+- [Zoom link](https://www.google.com/url?q=https%3A%2F%2Fgeorgetown.zoom.us%2Fj%2F982163916&sa=D&sntz=1&usg=AFQjCNFKe0-pOjW0ze2WJhh3vvtSTaftIw)
+
