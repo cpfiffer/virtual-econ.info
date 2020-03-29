@@ -39,3 +39,23 @@ Please submit .pdf copies of papers to [dcioday@gmail.com](mailto:dcioday@gmail.
 **Links and misc info**
 - [Website](https://sites.google.com/view/dc-io-day)
 - Email [dcioday@gmail.com](mailto:dcioday@gmail.com) to get on the mailing list, where the Zoom link will be distributed.
+
+### #DCEconCareerPanel
+
+Join #EconTwitter economists at 3pm on Friday, April 10, 2020 for a panel discussion of careers for economists in the DC area. Panelists scheduled to join us:
+
+Gbenga Ajilore, Center for American Progress
+Jevay Grooms, Howard University
+Claudia Sahm, Center for Equitable Growth
+Dani Sandler, Census Bureau
+
+The intended audience is current students (undergraduate and graduate) and early-career professionals, as well as people advising anyone in these groups. Most of the time will be devoted to answering attendees' questions.
+
+Please RSVP below in order to have the Zoom invitation URL sent to your email address (institutional email preferred) on the morning of April 10th. We will not use your email address for any other purpose.
+
+You do NOT need to have a Zoom account to RSVP, but you WILL need one to join the event. It's free and easy to sign up, with app downloads available for computers, phones, and tablets.
+
+In order to minimize the risk of disruptive attendees we cannot post the Zoom invitation URL publicly.
+
+- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSey41-N0lrRLQeV4r46KYVysdUJScUbWMQUSJYvVH0_gnuclw/viewform)
+- [The Tweet](https://twitter.com/graykimbrough/status/1243613791226605571?s=20)
