@@ -165,3 +165,9 @@ The format of the webinars will be as follows: the speaker will have 60 minutes 
 - [Mailing list](https://forms.gle/yohLo3pk898Yq9Sf9)
 - [Zoom link](https://www.google.com/url?q=https%3A%2F%2Fgeorgetown.zoom.us%2Fj%2F982163916&sa=D&sntz=1&usg=AFQjCNFKe0-pOjW0ze2WJhh3vvtSTaftIw)
 
+### Economic History Zoom Seminar Series
+
+No date yet, but sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform) to receive information when a date is determined.
+
+- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform)
+- [The Tweet](https://twitter.com/PMoserEcon/status/1244079573215498245?s=20)
