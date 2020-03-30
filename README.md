@@ -2,16 +2,7 @@
 
 ## Welcome
 
-`virtual-econ.info` is intended to store various virtual conferences, seminars, talks, and resources while many of us are sequestered at home. Hat tip to Luke Stein for the initial resources and the suggestion to build the website.
-
-[Edit this page!](https://github.com/cpfiffer/virtual-econ.info/edit/master/README.md)
-
-## Links
-
-- [Seminars](./seminars.html)
-- [Conferences](./conferences.html)
-- [Resources](./resources.html)
-- The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
+`virtual-econ.info` is intended to store various virtual conferences, seminars, talks, and resources while many of us are sequestered at home. Hat tip to [Luke Stein](https://twitter.com/lukestein) for the initial resources and the suggestion to build the website.
 
 ## How to contribute
 
