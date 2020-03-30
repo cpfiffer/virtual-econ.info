@@ -171,3 +171,10 @@ No date yet, but sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb
 
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform)
 - [The Tweet](https://twitter.com/PMoserEcon/status/1244079573215498245?s=20)
+
+### Virtual IO Seminar Series
+
+The CEPR Virtual IO Seminar (VIOS) provides a short-run alternative to IO seminars cancelled due to travel restrictions brought on by the Coronavirus. Our long-run goal, however, is to turn it into a permanent platform for sharing the benefits of regular IO seminars.  Seminars will be balanced between both theoretical and empirical approaches to IO.
+
+- [Website](https://sites.google.com/view/virtual-io-seminar/)
+- [Sign-up](https://docs.google.com/forms/d/1-dtGhiM2EqtXnkTztoLzDO7cNB_ekOFfbuckSSIotxU/viewform?edit_requested=true)
