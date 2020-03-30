@@ -139,13 +139,13 @@ Zoom ID for April 9th, 16th, and 22nd: 984 681 862
 - [The Tweet](https://twitter.com/pedrosaffi/status/1243645798983729152)
 - [Zoom link](https://zoom.us/j/496742494)
 
-### Online Urban Economics Seminar
+### Online Urban/Environmental Economics Seminar
 
-Starts the week April 6th, 2020. To get on the email list, send an email to [econ.urban.envi.online@gmail.com](mailto:econ.urban.envi.online@gmail.com).
+Weekly (or biweekly) seminar for urban economics and economic geography. Mondays at 3pm EDT (2pm CDT). To get on the email list, send an email to [econ.urban.envi.online@gmail.com](mailto:econ.urban.envi.online@gmail.com).
 
-- [Website](https://sites.google.com/view/urban-econ-online)
+- [Website (urban)](https://sites.google.com/view/urban-econ-online)
+- [Website (environmental)](https://sites.google.com/view/envi-econ-online)
 - [The Tweet](https://twitter.com/ChrisSeveren/status/1243590528559652869?s=20)
-
 
 ### Real Estate Research Seminar
 
