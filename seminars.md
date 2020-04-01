@@ -188,3 +188,13 @@ This weekly online seminar will take place on Fridays at 1-2PM ET.
 
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfMj6H4Lv2x7P0sCgg4Qf690pEsDG5SOvvBU1I2g5MC0XEg3A/viewform)
 - [The Tweet](https://twitter.com/jenniferdoleac/status/1244288965831770113?s=200]
+
+### Global Open Series in Environmental Economics (GoSee)
+
+The Global Open Series in Environmental Economics (GoSee) is a global, open-source network of professionals working to develop solutions for the most pressing environmental challenges of our time. Our goal: Evidence-based solutions that inform policy and can be easily implemented. As such, we aim to bring together academics, policymakers, NGOs, and the private sector to strengthen the connection between the interests of research communities and the needs of individuals on the ground who seek sound and implementable solutions.
+
+We hope that this series breaks down many traditional barriers—across institutions, nations, classes, etc. All are welcome.
+
+- [Website](https://gosee.io/index.html)
+- [Register](https://edrubin.typeform.com/to/WpCbOW)
+- [The Tweet](https://twitter.com/amb396/status/1245199937182126082?s=20)
