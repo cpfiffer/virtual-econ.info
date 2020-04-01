@@ -187,7 +187,7 @@ The meetings will take place weekly on Zoom.  Please see the schedule [on the we
 This weekly online seminar will take place on Fridays at 1-2PM ET. 
 
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfMj6H4Lv2x7P0sCgg4Qf690pEsDG5SOvvBU1I2g5MC0XEg3A/viewform)
-- [The Tweet](https://twitter.com/jenniferdoleac/status/1244288965831770113?s=200]
+- [The Tweet](https://twitter.com/jenniferdoleac/status/1244288965831770113?s=200)
 
 ### Global Open Series in Environmental Economics (GoSee)
 
