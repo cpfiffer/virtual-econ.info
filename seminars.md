@@ -198,3 +198,11 @@ We hope that this series breaks down many traditional barriers—across institut
 - [Website](https://gosee.io/index.html)
 - [Register](https://edrubin.typeform.com/to/WpCbOW)
 - [The Tweet](https://twitter.com/amb396/status/1245199937182126082?s=20)
+
+### Corporate Finance and Investments
+
+[Ryan Israelsen](https://twitter.com/israelsen) (Michigan State University), [Nuri Ersahin](https://twitter.com/nuriersahin) (Michigan State University), and [Andriy Bodnaruk](https://twitter.com/aybodnaruk) (University of Illinois at Chicago) are hosting virtual seminars on corporate finance. 
+
+Seminars occur at 1pm Eastern time on Tuesdays. The first seminar is April 7th, 2020.
+
+Email [bodnaruk@uic.edu](mailto:bodnaruk@uic.edu) to register.
