@@ -206,3 +206,11 @@ We hope that this series breaks down many traditional barriers—across institut
 Seminars occur at 1pm Eastern time on Tuesdays. The first seminar is April 7th, 2020.
 
 Email [bodnaruk@uic.edu](mailto:bodnaruk@uic.edu) to register.
+
+### Virtual Digital Economy Seminar
+
+An open online international and inter-institutional seminar on the digital economy.
+
+- [Website](https://sites.google.com/view/videseminar)
+- [Sign up](https://sites.google.com/view/videseminar/mailing-list)
+- [Google calendar](https://calendar.google.com/calendar?cid=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
