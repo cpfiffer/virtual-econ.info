@@ -206,3 +206,14 @@ We hope that this series breaks down many traditional barriers—across institut
 Seminars occur at 1pm Eastern time on Tuesdays. The first seminar is April 7th, 2020.
 
 Email [bodnaruk@uic.edu](mailto:bodnaruk@uic.edu) to register.
+
+### MaCCI EPoS Virtual IO Seminar
+
+The Mannheim Centre for Competition and Innovation (MaCCI) and the Collaborative Research Center TR 224 "EPoS" at the University of Bonn and the University of Mannheim are happy to announce the MaCCI/EPoS Virtual IO Seminar Series. The papers presented during the months of April and May are related to the broader topic of "Privacy and Competition."
+
+The seminars take place Thursdays at 3:00 - 4:15 p.m. CET and are held on ZOOM. For registration (to receive reminders, updates, and ZOOM Meeting ID information via email) please follow the link below.
+
+Seminar presentations are scheduled to last a total of 75 minutes (60 minutes presentations plus 15 minutes Q&A).
+
+- [Website](https://sites.google.com/view/macci-epos-virtual-io-seminar)
+- [Registration](https://sites.google.com/view/macci-epos-virtual-io-seminar/macci-epos-virtual-io-seminar/registration)
