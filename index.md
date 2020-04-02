@@ -10,7 +10,7 @@
 
 A calendar of events (started by the fantastic [Michael Ewens](https://twitter.com/startupecon)) can be viewed using the [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) ([iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)), or by viewing the embedded calendar below:
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=NHA3amM5cWM5aWdlYjgzcG1rcGpnaTgwZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTabs=1&amp;showTitle=1&amp;mode=AGENDA&amp;showPrint=1&amp;title&amp;showTz=1&amp;showCalendars=0&amp;showNav=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=NHA3amM5cWM5aWdlYjgzcG1rcGpnaTgwZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YmFrMWc3djJxdXNwcWVyMnVicDZ0ZWZzOWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dmlvc2VtaW5hckBnbWFpbC5jb20&amp;color=%237986CB&amp;color=%23F4511E&amp;color=%23795548&amp;color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Note that **these times are for the New York time zone**! Plan accordingly.
 

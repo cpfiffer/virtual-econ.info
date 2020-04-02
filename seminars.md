@@ -186,6 +186,7 @@ The meetings will take place weekly on Zoom.  Please see the schedule [on the we
 
 This weekly online seminar will take place on Fridays at 1-2PM ET. 
 
+- [Schedule](http://jenniferdoleac.com/wp-content/uploads/2020/04/DiscriminationSeminarInfo.pdf)
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfMj6H4Lv2x7P0sCgg4Qf690pEsDG5SOvvBU1I2g5MC0XEg3A/viewform)
 - [The Tweet](https://twitter.com/jenniferdoleac/status/1244288965831770113?s=200)
 
@@ -207,6 +208,7 @@ Seminars occur at 1pm Eastern time on Tuesdays. The first seminar is April 7th, 
 
 Email [bodnaruk@uic.edu](mailto:bodnaruk@uic.edu) to register.
 
+
 ### MaCCI EPoS Virtual IO Seminar
 
 The Mannheim Centre for Competition and Innovation (MaCCI) and the Collaborative Research Center TR 224 "EPoS" at the University of Bonn and the University of Mannheim are happy to announce the MaCCI/EPoS Virtual IO Seminar Series. The papers presented during the months of April and May are related to the broader topic of "Privacy and Competition."
@@ -217,3 +219,14 @@ Seminar presentations are scheduled to last a total of 75 minutes (60 minutes pr
 
 - [Website](https://sites.google.com/view/macci-epos-virtual-io-seminar)
 - [Registration](https://sites.google.com/view/macci-epos-virtual-io-seminar/macci-epos-virtual-io-seminar/registration)
+
+### Virtual Digital Economy Seminar
+
+An open online international and inter-institutional seminar on the digital economy.
+
+All seminars are on Thursdays at: 8:00 am PDT - 11:00am EDT - 4:00pm BST - 5:00pm CEST - 6:00 IDT.
+
+- [Website](https://sites.google.com/view/videseminar)
+- [Sign up](https://sites.google.com/view/videseminar/mailing-list)
+- [Google calendar](https://calendar.google.com/calendar?cid=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
