@@ -252,3 +252,16 @@ Over the coming weeks, the RES will be holding a series of webinars with leading
 A webinar series from Princeton's Bendheim Center for Finance about the economic implications of COVID-19.
 
 - [Website](https://bcf.princeton.edu/event-directory/covid19/)
+
+### JKU: Online Economics Research Seminar 
+
+
+During the crisis the regular research seminars of the Department of Economics are online and will take place using zoom. We invite researchers from other universities and research institutions present their original research work. Papers from all areas of economics are welcome. 
+
+After the presentations, there is opportunity for informal discussion (BYO). 
+
+Time: Wednesday, 4:00-5:00 pm (CEST
+
+- [Website](https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#)
+- Email [Alexander Ahammer](mailto:alex.ahammer@jku.at) for Zoom registration
+- Contact [René Böheim](https://www.jku.at/en/department-of-economics/team/rene-boeheim/) if you would like to present your work.
