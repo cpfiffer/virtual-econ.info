@@ -238,3 +238,11 @@ The plan is to give each speaker 40 minutes, with short pauses for clarification
 
 - [Website](https://web.stanford.edu/~leinav/teaching/IOIOspring2020.pdf)
 
+### Royal Economic Society
+
+The COVID-19 outbreak has provoked a rapid and, in many cases, unprecedented policy response from government. And many economists are playing a role in designing and analysing such policies along with studying the impact that COVID-19 is having. Although there are historical parallels with some aspects of this episode, the nature of the shock is unique and studying it requires careful thinking about the models and frameworks that we use, collecting and analysing new data as well as studying implications from existing data sets. 
+
+Over the coming weeks, the RES will be holding a series of webinars with leading economists. Some will be quite open ended while others will tackle specific issues. All are intended to bring serious economic thinking to bear on important and complex issues.
+
+- [Zoom registration](https://zoom.us/webinar/register/WN_KJYgJqoLQoOYbmXhChqT6w)
+- [The Tweet](https://twitter.com/RoyalEconSoc/status/1246026120400711680)
