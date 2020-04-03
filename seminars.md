@@ -246,3 +246,9 @@ Over the coming weeks, the RES will be holding a series of webinars with leading
 
 - [Zoom registration](https://zoom.us/webinar/register/WN_KJYgJqoLQoOYbmXhChqT6w)
 - [The Tweet](https://twitter.com/RoyalEconSoc/status/1246026120400711680)
+
+### Princeton: The economic implications of COVID-19
+
+A webinar series from Princeton's Bendheim Center for Finance about the economic implications of COVID-19.
+
+- [Website](https://bcf.princeton.edu/event-directory/covid19/)
