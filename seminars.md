@@ -230,3 +230,11 @@ All seminars are on Thursdays at: 8:00 am PDT - 11:00am EDT - 4:00pm BST - 5:00p
 - [Sign up](https://sites.google.com/view/videseminar/mailing-list)
 - [Google calendar](https://calendar.google.com/calendar?cid=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+### Interactive Online IO seminar
+
+The Interactive Online IO seminar will meet over the next two months, twice a week -- on Tuesdays 3-4pm ET and Fridays 12-1pm ET. The seminar is open to everyone, so you are more than encouraged to share this email with any interested coleagues and students. The schedule, along with Zoom registration links for each meeting, is available [here](https://web.stanford.edu/~leinav/teaching/IOIOspring2020.pdf). 
+
+The plan is to give each speaker 40 minutes, with short pauses for clarification questions, followed by 20 minutes of Q&A. All questions will get channeled via the private chat feature on Zoom, through a pre-assigned moderator.
+
+- [Website](https://web.stanford.edu/~leinav/teaching/IOIOspring2020.pdf)
+
