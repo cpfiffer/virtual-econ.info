@@ -265,3 +265,12 @@ Time: Wednesday, 4:00-5:00 pm (CEST
 - [Website](https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#)
 - Email [Alexander Ahammer](mailto:alex.ahammer@jku.at) for Zoom registration
 - Contact [René Böheim](https://www.jku.at/en/department-of-economics/team/rene-boeheim/) if you would like to present your work.
+
+### Virtual Finance Workshop
+
+The Virtual Finance Workshop is an open online finance seminar. Presentations will occur on Fridays at 12:30pm EDT, with the exception of the first seminar which occurs on Wednesday April 8th at 12:30pm EDT.
+
+Register by signing up for the [mailing list](https://www.virtualfinance.org/mailing-list).
+
+- [Website](http://www.virtualfinance.org/)
+- [Mailing list](https://www.virtualfinance.org/mailing-list)
