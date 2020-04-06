@@ -275,3 +275,12 @@ Register by signing up for the [mailing list](https://www.virtualfinance.org/mai
 - [Website](http://www.virtualfinance.org/)
 - [Mailing list](https://www.virtualfinance.org/mailing-list)
 - [Google calendar](https://calendar.google.com/calendar/embed?src=virtual.finance.workshop%40gmail.com&ctz=America%2FLos_Angeles)
+
+### The Microstructure Exchange
+
+The Microstructure Exchange is a virtual academic market microstructure research seminar of indefinite length, intended to continue the sharing of ideas between researchers. Presentations occur once per week on Tuesdays. See the [speaker schedule](https://microstructure.exchange/) for details on timing.
+
+- [Website](https://microstructure.exchange/)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York)
+- [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics)
+- [Register](https://tinyletter.com/microstructure-exchange)
