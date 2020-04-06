@@ -274,3 +274,4 @@ Register by signing up for the [mailing list](https://www.virtualfinance.org/mai
 
 - [Website](http://www.virtualfinance.org/)
 - [Mailing list](https://www.virtualfinance.org/mailing-list)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=virtual.finance.workshop%40gmail.com&ctz=America%2FLos_Angeles)
