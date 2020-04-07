@@ -288,3 +288,9 @@ The Microstructure Exchange is a virtual academic market microstructure research
 The workshop was originally meant to be taking place in Princeton in May 2020 with the aim of bringing together early-career researchers interested in quantitative work on the spatial economy.Due to COVID-19, we had to move the first iteration of the Quantitative Spatial Economics Junior Workshop online. Every Friday between April 17 and June 5 at noon NYC time, we will meet on zoom to listen to one junior scholar working on quantitative spatial economics. 
 
 - [Website](https://www.fpeckert.me/qse/)
+
+### Penn State Econ Theory Group
+
+The econ theory group at Penn State is organizing a webinar, open for all to attend. It will meet every Friday at 2pm EST. the list of speakers and links to the talks will be updated on the website and on our twitter page.
+
+- [Website](https://www.rohitlamba.com/penntheon)
