@@ -282,3 +282,9 @@ The Microstructure Exchange is a virtual academic market microstructure research
 - [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York)
 - [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics)
 - [Register](https://tinyletter.com/microstructure-exchange)
+
+### Quantitative Spatial Economics Junior Workshop
+
+The workshop was originally meant to be taking place in Princeton in May 2020 with the aim of bringing together early-career researchers interested in quantitative work on the spatial economy.Due to COVID-19, we had to move the first iteration of the Quantitative Spatial Economics Junior Workshop online. Every Friday between April 17 and June 5 at noon NYC time, we will meet on zoom to listen to one junior scholar working on quantitative spatial economics. 
+
+- [Website](https://www.fpeckert.me/qse/)
