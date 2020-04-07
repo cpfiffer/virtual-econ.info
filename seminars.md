@@ -294,3 +294,10 @@ The workshop was originally meant to be taking place in Princeton in May 2020 wi
 The econ theory group at Penn State is organizing a webinar, open for all to attend. It will meet every Friday at 2pm EST. the list of speakers and links to the talks will be updated on the website and on our twitter page.
 
 - [Website](https://www.rohitlamba.com/penntheon)
+
+### Virtual Market Design Seminar
+
+The Virtual Market Design Seminar is an open online alternative to seminars cancelled due to the COVID-19. Seminars will cover all fields from market design. Talks usually take place bi-weekly on Monday at 4:00-5:00pm (Paris UTC) on Zoom. Please check the schedule below, different days and times are possible.
+
+- [Website](http://virtual-md-seminar.com/)
+- [Mailing list](http://virtual-md-seminar.com/registration.html)
