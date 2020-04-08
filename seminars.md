@@ -301,3 +301,11 @@ The Virtual Market Design Seminar is an open online alternative to seminars canc
 
 - [Website](http://virtual-md-seminar.com/)
 - [Mailing list](http://virtual-md-seminar.com/registration.html)
+
+### Virtual Quantitative Marketing Seminar (VQMS)
+
+An open online academic seminar focusing on topics related to quantitative marketing. 
+
+- [Website](https://sites.google.com/view/vquantmarketing/home)
+- [Google calendar](https://calendar.google.com/calendar?cid=YWVrcDRpanM1MDAyc2V2YjZmNjlnajZmc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [Newsletter](https://vquantmarketing.substack.com/)
