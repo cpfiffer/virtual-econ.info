@@ -309,3 +309,11 @@ An open online academic seminar focusing on topics related to quantitative marke
 - [Website](https://sites.google.com/view/vquantmarketing/home)
 - [Google calendar](https://calendar.google.com/calendar?cid=YWVrcDRpanM1MDAyc2V2YjZmNjlnajZmc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [Newsletter](https://vquantmarketing.substack.com/)
+
+### FutFinInfo Webinar Series
+
+FutFinInfo stands for the Future of Financial Information. The ambition with this webinar series is to showcase novel insights into the sources and processing of information in financial markets, and inspire further research in this area. Given the breadth of the topic, every talk will bring a new flavor to the table – a great way to expand your palate!
+
+We will meet via Zoom every other Wednesday at 4pm CET, starting April 22nd. The format is 30 minutes presentation, 15 minutes prepared discussion and 15 minutes open Q&A. You can either register for individual webinars or subscribe to the entire series – see [the website](https://michaldzielinski.com/futfininfo/webinar-series/) for detailed instructions.
+
+- [Website](https://michaldzielinski.com/futfininfo/webinar-series/)
