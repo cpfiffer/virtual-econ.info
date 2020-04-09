@@ -317,3 +317,13 @@ FutFinInfo stands for the Future of Financial Information. The ambition with thi
 We will meet via Zoom every other Wednesday at 4pm CET, starting April 22nd. The format is 30 minutes presentation, 15 minutes prepared discussion and 15 minutes open Q&A. You can either register for individual webinars or subscribe to the entire series – see [the website](https://michaldzielinski.com/futfininfo/webinar-series/) for detailed instructions.
 
 - [Website](https://michaldzielinski.com/futfininfo/webinar-series/)
+
+
+### Tax Administration Research Centre
+
+TARC, at the University of Exeter, is moving its semiar series online through Zoom. The centre's mission is to deliver outstanding interdisciplinary research in tax administration and policy that addresses the major challenges and strategic priorities confronting policymakers and tax authorities today.
+
+Seminars will be held fortnightly, taking place on Wednesdays at 09:00 EST / 14:00 BST. Register by signing up for the [mailing list](http://feele.exeter.ac.uk/vseminar_request). 
+
+- [Mailing List](http://feele.exeter.ac.uk/vseminar_request)
+- [Website](http://tarc.exeter.ac.uk/events/masterclasses/seminarseries/)
