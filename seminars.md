@@ -99,14 +99,6 @@ All Seminars take place at 2:30-4pm, UK time, and will take place on Microsoft T
 
 - [Website](https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/)
 
-### Rosenthal Memorial Lecture
-
-An annual lecture series at Boston University that's being held virtually. [Susan Athey](@Susan_Athey) will present “Platforms, Aggregators, and Intermediaries” 3/27 4-5:30 Eastern.  
-
-- [Website](https://www.bu.edu/econ/research/lectures/rosenthal/)
-- [Zoom link](https://bostonu.zoom.us/j/286857222)
-- [The Tweet](https://twitter.com/blipman58/status/1243187849081561090?s=20)
-
 ### Online Economics of Crime Seminar
 
 This seminar series features empirical research related to criminal behavior and criminal justice policy. The one-hour seminar includes a 35-minute presentation by the author and 25 minutes for questions and discussion. It takes place on Zoom on Thursdays, 3:30-4:30pm Eastern Time. 
@@ -327,3 +319,11 @@ Seminars will be held fortnightly, taking place on Wednesdays at 09:00 EST / 14:
 
 - [Mailing List](http://feele.exeter.ac.uk/vseminar_request)
 - [Website](http://tarc.exeter.ac.uk/events/masterclasses/seminarseries/)
+
+### Virtual International Trade and Macro Seminar
+
+The University of Rochester is hosting an international trade and macroeconomics seminar. Seminars are on Thursdays, 2:00 PM EDT (1 hour for seminar, 30 minutes discussion).
+
+- [Website](https://www.tradedynamics.org/)
+- [Google calendar](https://calendar.google.com/calendar/embed?ctz=America%2FNew_York&src=virtual.itm.seminar%40gmail.com)
+- [Twitter](https://twitter.com/virtual_macro)
