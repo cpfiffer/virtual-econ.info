@@ -341,3 +341,10 @@ The University of Rochester is hosting an international trade and macroeconomics
 The purpose of our series is to facilitate the exchange of ideas in macroeconomics and finance with an emphasis on search and matching, among others.
 
 - [Website](http://sammf.com/)
+- [Mailing list](http://sammf.com/sign-up/)
+
+### V-MESS
+
+The Virtual-monthly Mental health Economies Seminar Series is a virtual seminar focused on the economics of mental health organized by Ana Moura (Tilburg) and Christoph Kronenberg (Duisburg-Essen).
+
+- [Website](https://sites.google.com/view/christoph-kronenberg/home/v-mess)
