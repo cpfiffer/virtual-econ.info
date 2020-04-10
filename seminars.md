@@ -335,3 +335,9 @@ The University of Rochester is hosting an international trade and macroeconomics
 - [Website](https://www.tradedynamics.org/)
 - [Google calendar](https://calendar.google.com/calendar/embed?ctz=America%2FNew_York&src=virtual.itm.seminar%40gmail.com)
 - [Twitter](https://twitter.com/virtual_macro)
+
+### Search and Matching in Macro and Finance Virtual Seminar Series
+
+The purpose of our series is to facilitate the exchange of ideas in macroeconomics and finance with an emphasis on search and matching, among others.
+
+- [Website](http://sammf.com/)
