@@ -348,3 +348,11 @@ The purpose of our series is to facilitate the exchange of ideas in macroeconomi
 The Virtual-monthly Mental health Economies Seminar Series is a virtual seminar focused on the economics of mental health organized by Ana Moura (Tilburg) and Christoph Kronenberg (Duisburg-Essen).
 
 - [Website](https://sites.google.com/view/christoph-kronenberg/home/v-mess)
+
+### The Economics of Migration
+
+We are glad to inform you that a new on-line seminar (Zoom webinars) series on The Economics of Migration will be launched next week. This is a joint initiative of CERDI, PSE, LISER, the University of Luxembourg, Universidad Carlos III and the IC Migrations, and its objective is to propose an opportunity to migration scholars for exchanging under the current exceptional circumstances.
+
+Seminars will be weekly, and held on Wednesdays from 5.30 to 6.30 pm CET.
+
+- [Mailing list](mailto:simone.bertoli@uca.fr)
