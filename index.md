@@ -8,9 +8,12 @@
 
 ## Calendar
 
-A calendar of events (started by the fantastic [Michael Ewens](https://twitter.com/startupecon)) can be viewed using the [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) ([iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)), or by viewing the embedded calendar below:
+A calendar of some events (started by the fantastic [Michael Ewens](https://twitter.com/startupecon)) can be viewed using the [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) ([iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)).
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=OTA2YnQyMTJlanJ2dThxbmh0bXY1ZWptczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NHA3amM5cWM5aWdlYjgzcG1rcGpnaTgwZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWVrcDRpanM1MDAyc2V2YjZmNjlnajZmc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YmFrMWc3djJxdXNwcWVyMnVicDZ0ZWZzOWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dmlydHVhbC5maW5hbmNlLndvcmtzaG9wQGdtYWlsLmNvbQ&amp;color=%233F51B5&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23795548&amp;color=%23F4511E&amp;color=%23D81B60&amp;mode=AGENDA" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+The calendar below includes multiple calendars for events that manage their own calendar  -- the calendar links above will not include these seminars. You must subscribe to those calendars independently.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=OTA2YnQyMTJlanJ2dThxbmh0bXY1ZWptczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NHA3amM5cWM5aWdlYjgzcG1rcGpnaTgwZmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWVrcDRpanM1MDAyc2V2YjZmNjlnajZmc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YmFrMWc3djJxdXNwcWVyMnVicDZ0ZWZzOWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NXM1b2pncXRvNW52djQxOW4xdTloam82YTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=virtual.itm.seminar%40gmail.com&amp;src=dmlydHVhbC5maW5hbmNlLndvcmtzaG9wQGdtYWlsLmNvbQ&amp;color=%233F51B5&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23795548&amp;color=%23F4511E&amp;color=%23D81B60&amp;mode=AGENDA" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 Note that **these times are for the New York time zone**! Plan accordingly.
 
