@@ -4,6 +4,14 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+### Villanova Webinars in Financial Intermediation (WiFI)
+
+A virtual seminar series dedicated to research in banking and financial intermediation.  Seminars will be held via Zoom.  Authors will present for 45 minutes, and a 15 minute Q&A session from the audience will follow.
+
+[Sign-up for our Zoom e-mail list here](https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo/)
+
+Please visit [our website](https://sites.google.com/view/vuwifi) for more information and our current schedule.  
+
 ### The Gary Chamberlain Online Seminar in Econometrics
 
 A regular open online international inter-institutional econometrics seminar in honor of Gary Chamberlain (1948–2020). 60 minutes of presentation, 15 minutes of comments/questions by two to three discussants, and 15 minutes of audience questions. Held on Zoom.
