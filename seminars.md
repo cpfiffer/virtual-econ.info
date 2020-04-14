@@ -356,3 +356,20 @@ We are glad to inform you that a new on-line seminar (Zoom webinars) series on T
 Seminars will be weekly, and held on Wednesdays from 5.30 to 6.30 pm CET.
 
 - [Mailing list](mailto:simone.bertoli@uca.fr)
+- [Website](https://cerdi.uca.fr/webinar-series-on-the-economics-of-migration/#/admin)
+
+### Graduate Students in Economics of Education Zoom (GEEZ)
+
+We are excited to invite you to our Graduate Students in Economics of Education Zoom seminars (GEEZ). The focus of this group is to provide a supportive platform for students to share their ongoing research.  We hope to cover a wide expanse of topics relevant to Economics of Education and to highlight work happening in settings all over the world.
+
+We will meet on Tuesdays at 12:00 ET (17:00 GMT). The first session will take place on Tuesday, April 21 2020. A presenter will be given 20 minutes and afterwards there will be 10 minutes for questions. 
+
+- [The Tweet](https://twitter.com/CMichaudLeclerc/status/1248254956186079232)
+- [Register](https://docs.google.com/forms/d/e/1FAIpQLSfXwitVQxrz600YCivS7Jl51P0qe3BTzGI8tioIekRa3DkAuQ/viewform)
+
+### Economics of LGBTQ+ Individuals Virtual Seminar Series
+
+The one-hour seminar includes a 35-minute presentation by the author and 25 minutes for questions and discussion. Seminars occur at 12pm EDT on Tuesdays.
+
+- [Website](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)
+- [Register](https://forms.gle/xnaCijhQC3zxHzCa8)
