@@ -81,11 +81,13 @@ A regular international causal inference seminar. All seminars are on Tuesdays a
 
 ### Essen Health Economics Seminar Series | Virtual Edition
 
-We are planning to host our Health Econ seminar virtually in the upcoming semester. People need to sign up via email to the mailing list to get info about the series. We are just starting up the virtual format, so consider the format in development for the coming weeks. The seminar is jointly held by [CINCH Health Econ Research Center](https://cinch.uni-due.de/) and the [RWI Health Division](http://en.rwi-essen.de/lscr/forschungsbereiche).
+The seminar series is a joint initiative of the [CINCH Health Economics Research Center](https://cinch.uni-due.de/), University of Duisburg-Essen and the [RWI Health Group](http://en.rwi-essen.de/forschung-und-beratung/gesundheit/), Germany. The seminar aims at connecting researchers from various fields of health economics using econometrics and experimental methods. Current research will be presented by researchers of all stages from inside and outside the collaborating institutions. The purpose is to foster exchange among early career and experienced researchers in the field. Scholars present their ideas which include preliminary research and research papers.
 
-Here is the page of the past winter term: https://www.goek.wiwi.uni-due.de/en/research/mondays-seminar/winter-2019-20/ The summer program will be online soon.
+Due to the ongoing situation regarding the COVID-19 pandemic, the seminar series will be held in a virtual format until further notice. To receive access to the virtual seminar room, please subscribe to the mailing list: [mondays-join@lists.uni-due.de](mailto:mondays-join@lists.uni-due.de). The virtual seminar will not be recorded as we want to encourage participants to present preliminary work.
 
-Send an email to [mondays-seminar@wiwinf.uni-due.de](mailto:mondays-seminar@wiwinf.uni-due.de) to subscribe to the mailing list.
+- Time: Mondays, 4:00-5:30 Berlin time
+- [Program](https://www.goek.wiwi.uni-due.de/en/research/mondays-seminar/summer-2020/)
+- [Schedule](https://teamup.com/ksxmy3qtypimzzr9j6)
 
 ### Webinar Series in Gender Economics
 
