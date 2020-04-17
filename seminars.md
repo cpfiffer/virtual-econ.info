@@ -378,7 +378,15 @@ The one-hour seminar includes a 35-minute presentation by the author and 25 minu
 
 ### YSI - Economic History Graduate Webinars 
 
-This Webinar has the objective to create a nice and friendly atmosphere for Graduate Students to present their last work. Priority will be given to next year Job Market Candidates. The Seminar will take place bi-weekly on Wednesdays at 4pm! 
+This Webinar has the objective to create a nice and friendly atmosphere for Graduate Students to present their last work. Priority will be given to next year Job Market Candidates. The Seminar will take place bi-weekly on Wednesdays at 16:00 - 17:00 CEST. 
 
 - [Website](https://ysi.ineteconomics.org/project/5e960c11a6a5c2058bd1aa29)
 - [Register](https://forms.gle/WzTVhDxKhRkPwUUq7)
+
+### European Macro History Online Seminar 
+
+The Graduate Institute and a consortium of sixteen other institutions is launching a Europe-wide virtual seminar in Macroeconomic History. Every Tuesday 16:00 - 17:00 CEST.
+
+- [Website](https://graduateinstitute.ch/communications/events/european-macro-history-online-seminar)
+- [Register](https://forms.gle/fFfLL9ZEX84Qsgsm8)
+
