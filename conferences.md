@@ -6,9 +6,17 @@ A list of virtual conferences to learn about cool economics things without havin
 
 ### Canadian Economic Theory Conference 2020
 
-The yearly economic theory conference scheduled for May 8-10 in Vancouver is online this year.  The submission deadline has passed, but the program should be available around April 10.  This will be a Zoom conference.  
+This year's conference is organized by the University of British Columbia.
 
-The organizing committee:
+**Dates:** May 8th-9th 2020
+
+**Time:** 7am to 5:20pm PST
+
+**Program:** [available here.](https://microeconomics.ca/micro/cetc)
+
+**Access:** Open to the public. [Please register here.](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg)
+
+**Organizing committee:**
 
 1. [Michael Peters](https://montoya.econ.ubc.ca)
 1. [Sergei Severinov](https://economics.ubc.ca/faculty-and-staff/sergei-severinov/)
@@ -16,9 +24,6 @@ The organizing committee:
 1. [Li Wei](https://economics.ubc.ca/faculty-and-staff/wei-li/)
 1. [Vitor Fahrina Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
 1. [Shunya Noda](https://economics.ubc.ca/faculty-and-staff/shunya-noda/)
-
-[Conference Webpage](https://www.economics.utoronto.ca/conferences/index.php/cetc/2020)
-
 
 ### Virtual Finance & Economics Conference 2020
 
