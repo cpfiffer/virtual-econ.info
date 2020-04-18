@@ -12,7 +12,7 @@ This year's conference is organized by the University of British Columbia.
 
 **Time:** 7am to 5:20pm PST
 
-**Program and instructions:** [available here.](https://microeconomics.ca/micro/cetc)
+**Program and instructions:** [Available here](https://microeconomics.ca/micro/cetc).
 
 **Access:** open to the public. [Please register here.](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg)
 
