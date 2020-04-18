@@ -14,7 +14,7 @@ This year's conference is organized by the University of British Columbia.
 
 **Program and instructions:** [available here.](https://microeconomics.ca/micro/cetc)
 
-**Access:** Open to the public. [Please register here.](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg)
+**Access:** open to the public. [Please register here.](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg)
 
 **Organizing committee:**
 
