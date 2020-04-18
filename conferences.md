@@ -12,9 +12,11 @@ This year's conference is organized by the University of British Columbia.
 
 **Time:** 7am to 5:20pm PST
 
-**Program:** [available here.](https://microeconomics.ca/micro/cetc)
+**Program and instructions:** [Available here](https://microeconomics.ca/micro/cetc).
 
-**Access:** Open to the public. [Please register here.](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg)
+**Access:** Open to the public. 
+
+**Registration**: [Please register here](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg).
 
 **Organizing committee:**
 
@@ -22,10 +24,8 @@ This year's conference is organized by the University of British Columbia.
 1. [Sergei Severinov](https://economics.ubc.ca/faculty-and-staff/sergei-severinov/)
 1. [Li Hao](https://faculty.arts.ubc.ca/lhao/)
 1. [Li Wei](https://economics.ubc.ca/faculty-and-staff/wei-li/)
-1. [Vitor Fahrina Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
+1. [Vitor Farinha Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
 1. [Shunya Noda](https://economics.ubc.ca/faculty-and-staff/shunya-noda/)
-
-- [Conference Program and Instructions](https://microeconomics.ca/micro/cetc)
 
 ### Virtual Finance & Economics Conference 2020
 
