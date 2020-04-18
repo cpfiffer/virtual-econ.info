@@ -17,7 +17,7 @@ The organizing committee:
 1. [Vitor Fahrina Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
 1. [Shunya Noda](https://economics.ubc.ca/faculty-and-staff/shunya-noda/)
 
-[Conference Webpage](https://www.economics.utoronto.ca/conferences/index.php/cetc/2020)
+[Conference Program and Instructions](https://microeconomics.ca/micro/cetc)
 
 
 ### Virtual Finance & Economics Conference 2020
