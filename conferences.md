@@ -25,6 +25,8 @@ This year's conference is organized by the University of British Columbia.
 1. [Vitor Fahrina Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
 1. [Shunya Noda](https://economics.ubc.ca/faculty-and-staff/shunya-noda/)
 
+- [Conference Program and Instructions](https://microeconomics.ca/micro/cetc)
+
 ### Virtual Finance & Economics Conference 2020
 
 A fully remote conference for researchers in economics and finance. Contributions that highlight our changing times are welcomed. 
