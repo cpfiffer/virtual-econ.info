@@ -6,7 +6,7 @@ A list of virtual conferences to learn about cool economics things without havin
 
 ### Canadian Economic Theory Conference 2020
 
-This year's conference is organized by the University of British Columbia and will be streamed on May 8th-9th 2020 from 7am to 5:20pm (PST).
+This year's conference is organized by the University of British Columbia.
 
 **Dates:** May 8th-9th 2020
 
