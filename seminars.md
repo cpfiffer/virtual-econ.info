@@ -4,6 +4,12 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+### Labor & Finance Online Seminar (LFOS)
+
+The Labor and Finance Online Seminar (LFOS) series is a biweekly Zoom seminar series showcasing research at the intersection of labor and finance. We meet every other Tuesday, starting 4/28, 1:15 - 2:15 pm ET.
+
+Please visit [our website](https://sites.google.com/view/lfos) for our current schedule and to sign up.  
+
 ### Villanova Webinars in Financial Intermediation (WiFI)
 
 A virtual seminar series dedicated to research in banking and financial intermediation.  Seminars will be held via Zoom.  Authors will present for 45 minutes, and a 15 minute Q&A session from the audience will follow.
