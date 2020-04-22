@@ -53,11 +53,9 @@ Email [cfmp@georgetown.edu](mailto:cfmp@georgetown.edu) to be added to the Zoom 
 
 ### Workshop on Entrepreneurial Finance and Innovation 2020
 
-A bi-weekly, virtual workshop featuring research in entrepreneurial finance and innovation.    Papers will be both invited and solicited with a call for papers.  The first workshop takes place on Zoom on April 6th, 2020 at 12pm EDT. 45 minute presentations on Zoom, two short invited comments, and 20 minute moderated Q&A.
+[A bi-weekly, virtual workshop featuring research in entrepreneurial finance and innovation](https://www.workshop-efi.com/home).    Papers will be both invited and solicited with a call for papers.  If you are interested in presenting your work, please send a completed paper [workshop.efi2020@gmail.com](mailto:workshop.efi2020@gmail.com).
 
-If you are interested in presenting your work, please send a completed paper [workshop.efi2020@gmail.com](mailto:workshop.efi2020@gmail.com) by April 4th.
-
-Sign up for this conference [here](http://www.google.com/url?q=http%3A%2F%2Feepurl.com%2FgW87h5&sa=D&sntz=1&usg=AFQjCNH7ZQ_KBw_rTNauVxhtZ3fKHObVmw).
+Sign up for this conference [here](https://www.workshop-efi.com/signup-form).
 
 ### Virtual Macro Seminar
 
