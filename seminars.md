@@ -368,12 +368,15 @@ Seminars will be weekly, and held on Wednesdays from 5.30 to 6.30 pm CET.
 
 ### Graduate Students in Economics of Education Zoom (GEEZ)
 
-We are excited to invite you to our Graduate Students in Economics of Education Zoom seminars (GEEZ). The focus of this group is to provide a supportive platform for students to share their ongoing research.  We hope to cover a wide expanse of topics relevant to Economics of Education and to highlight work happening in settings all over the world.
+We are excited to present you our Graduate Students in Economics of Education Zoom (GEEZ) seminars. The focus of this group is to provide a supportive platform for students to share their ongoing research.  We hope to cover a wide expanse of topics relevant to Economics of Education and to highlight work happening in settings all over the world.
 
-We will meet on Tuesdays at 12:00 ET (17:00 GMT). The first session will take place on Tuesday, April 21 2020. A presenter will be given 20 minutes and afterwards there will be 10 minutes for questions. 
+We will meet on Tuesdays at 12:00 ET (Washington DC time). The first session will be on Tuesday, April 21 2020. A presenter will be given 20 minutes and afterwards there will be 10 minutes for questions.
 
+- [Website](https://sites.google.com/view/cmichaudleclerc/geez-seminars)
+- [Schedule](https://www.dropbox.com/s/h2mk4yxouup1xfy/Schedule%20and%20Information%20GEEZ.pdf?dl=0)
 - [The Tweet](https://twitter.com/CMichaudLeclerc/status/1248254956186079232)
-- [Register](https://docs.google.com/forms/d/e/1FAIpQLSfXwitVQxrz600YCivS7Jl51P0qe3BTzGI8tioIekRa3DkAuQ/viewform)
+- [Register](https://docs.google.com/forms/d/e/1FAIpQLSfXwitVQxrz600YCivS7Jl51P0qe3BTzGI8tioIekRa3DkAuQ/viewform?usp=sf_link)
+- [Presenter sign-up](https://docs.google.com/forms/d/e/1FAIpQLScxIbrLb-yjeMDm85w2CvvdatviQZb0iBOMEMWRuGq2u4hY3g/viewform?usp=sf_link)
 
 ### Economics of LGBTQ+ Individuals Virtual Seminar Series
 
