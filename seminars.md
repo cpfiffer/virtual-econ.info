@@ -399,3 +399,11 @@ The Graduate Institute and a consortium of sixteen other institutions is launchi
 - [Website](https://graduateinstitute.ch/communications/events/european-macro-history-online-seminar)
 - [Register](https://forms.gle/fFfLL9ZEX84Qsgsm8)
 
+
+### MoFiR Virtual Seminars on Banking
+
+Building on the success of the [MoFiR Workshop on Banking](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fmofir2020%2Fhome&sa=D&sntz=1&usg=AFQjCNG45HGhgURMi2yHFI035wIezFkW8w), we are launching a monthly series of [MoFiR](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fmofirunivpm%2F&sa=D&sntz=1&usg=AFQjCNFIrrT-zqOZXo20A6WYtjXXsb236w) virtual seminars on banking and financial intermediation to maintain an active discussion on these important topics. The seminars will be open to all those interested, including faculty, graduate students, and policymakers around the world.
+
+- [Website](https://sites.google.com/view/mofirseminars/home)
+- [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLScAF7pS1ksQFEBV4L1Y9fEZ4pZT44VCXXmfgoBygLfn53ACuw/viewform?usp=sf_link)
+- [Calendar](https://calendar.google.com/calendar/ical/69l82be6c1q5c9vntqvmatentg%40group.calendar.google.com/private-d8a01ca0a7e25bf79e0efc94167ae890/basic.ics)
