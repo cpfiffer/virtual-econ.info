@@ -4,6 +4,10 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+### Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)
+
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting 1 May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. Please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) to receive webinar links and visit [SAMVAAD's website](https://aadityadar.github.io/samvaad/) for more details.
+
 ### Labor & Finance Online Seminar (LFOS)
 
 The Labor and Finance Online Seminar (LFOS) series is a biweekly Zoom seminar series showcasing research at the intersection of labor and finance. We meet every other Tuesday, starting 4/28, 1:15 - 2:15 pm ET.
