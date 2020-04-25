@@ -9,3 +9,4 @@ https://ics.teamup.com/feed/ksxmy3qtypimzzr9j6/0.ics                            
 https://calendar.google.com/calendar/ical/villanovawifi%40gmail.com/public/basic.ics                                # Villanova WiFi
 https://calendar.google.com/calendar/ical/aekp4ijs5002sevb6f69gj6fsc%40group.calendar.google.com/public/basic.ics   # Virtual Quant Marketing
 https://calendar.google.com/calendar/ical/virtual.itm.seminar%40gmail.com/public/basic.ics                          # Virtual ITM
+https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics   # The Microstructure Exchange
