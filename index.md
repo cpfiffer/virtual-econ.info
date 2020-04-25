@@ -8,9 +8,10 @@
 
 ## Calendar
 
-A calendar of some events (started by the fantastic [Michael Ewens](https://twitter.com/startupecon)) can be viewed using the [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) ([iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)).
+A calendar of some events (started by the fantastic [Michael Ewens](https://twitter.com/startupecon)) can be viewed using the [Google calendar link](auqu8ab2d1ugmmj6ibqrg4vul16fh506@import.calendar.google.com
+) ([iCal format](https://raw.githubusercontent.com/cpfiffer/virtual-econ.info/master/virtual-econ-calendar.ics)).
 
-The calendar below includes multiple calendars for events that manage their own calendar  -- the calendar links above will not include these seminars. You must subscribe to those calendars independently.
+Please see the section below on how to add your event's calendar to this page.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YXVxdThhYjJkMXVnbW1qNmlicXJnNHZ1bDE2Zmg1MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23795548&amp;color=%23F4511E&amp;color=%23D81B60&amp;mode=AGENDA&amp;title=virtual-econ.info" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
