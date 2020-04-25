@@ -17,6 +17,21 @@ The calendar below includes multiple calendars for events that manage their own 
 
 Note that **these times are for the New York time zone**! Plan accordingly.
 
+
+## How to add your calendar
+
+If you have a Google calendar or iCal link, you can add your calendar to the master list. A Python script runs every night at midnight and retrieves all calendars from the file `calendar_sources.txt`. 
+
+Steps: 
+
+1. Get a URL that points to your calendar -- the URL should end with `.ics`. As an example, the URL for the website's calendar is
+
+    ```
+    https://raw.githubusercontent.com/cpfiffer/virtual-econ.info/master/virtual-econ-calendar.ics
+    ```
+
+
+
 ## Links
 
 - [Seminars](./seminars.html)
@@ -24,6 +39,7 @@ Note that **these times are for the New York time zone**! Plan accordingly.
 - [Resources](./resources.html)
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
 - [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) and the calendar in [iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)
+
 
 ## How to contribute
 

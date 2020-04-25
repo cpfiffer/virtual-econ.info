@@ -1,7 +1,7 @@
 from ics import Calendar
 import requests
 
-SOURCES_PATH = "calendar_scripts/sources.txt"
+SOURCES_PATH = "calendar_sources.txt"
 OUT_PATH = "virtual-econ-calendar.ics"
 
 
