@@ -7,16 +7,16 @@ OUT_PATH = "virtual-econ-calendar.ics"
 
 def main():
     with open(SOURCES_PATH) as f:
-        content = f.readlines()
-    content = [x.strip() for x in content]
+        content = list(filter(lambda z: len(z) > 0, map(lambda x: x.split('#')[0].strip(), f.readlines())))
 
     new_c = Calendar()
     for source in content:
-        c = Calendar(requests.get(source).text)
+        cal_text = requests.get(source).text
+        c = Calendar(cal_text)
         new_c.events.update(c.events)
 
     with open(OUT_PATH, "w") as f:
-        f.write(str(c))
+        f.write(str(new_c))
 
     print(f"Saved new calendar to `{OUT_PATH}``")
 

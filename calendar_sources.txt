@@ -1,3 +1,6 @@
-https://calendar.google.com/calendar/ical/5s5ojgqto5nvv419n1u9hjo6a4%40group.calendar.google.com/public/basic.ics
-https://calendar.google.com/calendar/ical/virtual.finance.workshop%40gmail.com/public/basic.ics
-https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics
+# Add your calendar below. Anything to the right of a pound sign (#) will be treated as a comment
+# and ignored. Make sure you add a comment that indicates what seminar your calendar belongs to!
+https://calendar.google.com/calendar/ical/5s5ojgqto5nvv419n1u9hjo6a4%40group.calendar.google.com/public/basic.ics # Virtual Digital Economy Seminar
+https://calendar.google.com/calendar/ical/virtual.finance.workshop%40gmail.com/public/basic.ics                   # Virtual finance workshop
+# https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics # Legacy virtual-econ.info calendar.
+https://calendar.google.com/calendar/ical/laborandfinanceseminar%40gmail.com/public/basic.ics # LFOS
