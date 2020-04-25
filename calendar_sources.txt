@@ -2,7 +2,7 @@
 # and ignored. Make sure you add a comment that indicates what seminar your calendar belongs to!
 https://calendar.google.com/calendar/ical/5s5ojgqto5nvv419n1u9hjo6a4%40group.calendar.google.com/public/basic.ics   # Virtual Digital Economy Seminar
 https://calendar.google.com/calendar/ical/virtual.finance.workshop%40gmail.com/public/basic.ics                     # Virtual finance workshop
-# https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics # Legacy virtual-econ.info calendar.
+https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics # Legacy virtual-econ.info calendar.
 https://calendar.google.com/calendar/ical/laborandfinanceseminar%40gmail.com/public/basic.ics                       # LFOS
 https://calendar.google.com/calendar/ical/bak1g7v2quspqer2ubp6tefs9c%40group.calendar.google.com/public/basic.ics   # DCPEC
 https://ics.teamup.com/feed/ksxmy3qtypimzzr9j6/0.ics                                                                # Essen Health Econ
