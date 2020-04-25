@@ -1,8 +1,8 @@
 from ics import Calendar
 import requests
 
-SOURCES_PATH = "sources.txt"
-OUT_PATH = "out.ics"
+SOURCES_PATH = "calendar_scripts/sources.txt"
+OUT_PATH = "virtual-econ-calendar.ics"
 
 
 def main():
@@ -15,7 +15,7 @@ def main():
         c = Calendar(requests.get(source).text)
         new_c.events.update(c.events)
 
-    with open("out.ics", "w") as f:
+    with open(OUT_PATH, "w") as f:
         f.write(str(c))
 
     print(f"Saved new calendar to `{OUT_PATH}``")
