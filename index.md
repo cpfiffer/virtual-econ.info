@@ -24,13 +24,17 @@ If you have a Google calendar or iCal link, you can add your calendar to the mas
 
 Steps: 
 
-1. Get a URL that points to your calendar -- the URL should end with `.ics`. As an example, the URL for the website's calendar is
+1. Get a URL that points to your calendar -- the URL should end with `.ics`. If you are using Google Calendars, you can look at [this picture](calendar-example.png) to see where to click. Search on how to get this link for your calendar provider if you are not using a Google calendar. As an example, the URL for the website's calendar is
 
     ```
     https://raw.githubusercontent.com/cpfiffer/virtual-econ.info/master/virtual-econ-calendar.ics
     ```
 
+2. Edit the file `calendar_sources.txt` in this repo, and stick your URL at the bottom of the list. Here's a [handy link](https://github.com/cpfiffer/virtual-econ.info/edit/master/calendar_sources.txt) to do so.
 
+3. Click the "Propose file change" button at the bottom of the page.
+
+4. Wait for someone to accept your changes.
 
 ## Links
 
