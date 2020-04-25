@@ -12,7 +12,7 @@ A calendar of some events (started by the fantastic [Michael Ewens](https://twit
 
 The calendar below includes multiple calendars for events that manage their own calendar  -- the calendar links above will not include these seminars. You must subscribe to those calendars independently.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YXVxdThhYjJkMXVnbW1qNmlicXJnNHZ1bDE2Zmg1MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23795548&amp;color=%23F4511E&amp;color=%23D81B60&amp;mode=AGENDA" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YXVxdThhYjJkMXVnbW1qNmlicXJnNHZ1bDE2Zmg1MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%237986CB&amp;color=%234285F4&amp;color=%23795548&amp;color=%23F4511E&amp;color=%23D81B60&amp;mode=AGENDA&amp;title=virtual-econ.info" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Note that **these times are for the New York time zone**! Plan accordingly.
 
