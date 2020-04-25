@@ -176,8 +176,9 @@ The format of the webinars will be as follows: the speaker will have 60 minutes 
 
 ### Economic History Zoom Seminar Series
 
-No date yet, but sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform) to receive information when a date is determined.
+A series of virtual seminars in economic history while we are all sheltering in place. We meet on Mondays from 11-noon Pacific / 2-3 pm Eastern / 8-9 pm Central European Summer Time. To receive seminar announcements or suggest a paper please sign up here. Organized by Petra Moser, Katherine Eriksson and Melissa Thomasson. 
 
+- [Website](http://www.petramoser.net/virthist.html)
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform)
 - [The Tweet](https://twitter.com/PMoserEcon/status/1244079573215498245?s=20)
 
