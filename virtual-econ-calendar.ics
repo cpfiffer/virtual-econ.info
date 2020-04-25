@@ -8,7 +8,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 CREATED:20200330T184937Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200514T173000Z
 LAST-MODIFIED:20200330T211318Z
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200428T065959Z;BYDAY=MO
 CREATED:20200330T182400Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view?fbclid=IwAR0AM210xvqY4855JujLPFIcReZhS9Y0nESamVMNdxIbD-rswEk2V8bOQgU">https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view?fbclid=IwAR0AM210xvqY4855JujLPFIcReZhS9Y0nESamVMNdxIbD-rswEk2V8bOQgU</a>
 DTEND:20200406T140000Z
 LAST-MODIFIED:20200406T204538Z
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T014836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:"How Are Small Businesses Adjusting to COVID-19? Early Evidence From a Survey"
 DTEND:20200428T181500Z
 LAST-MODIFIED:20200422T014849Z
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=SU;COUNT=5;BYDAY=FR
 CREATED:20200330T213802Z
 SEQUENCE:2
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/" id="ow988" __is_owner="true">https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/</a>
 DTEND:20200424T160000Z
 LAST-MODIFIED:20200402T180655Z
@@ -63,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T214918Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://thies.github.io/real-estate-seminar/
 DTEND:20200402T170000Z
 LAST-MODIFIED:20200330T214918Z
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=SU;COUNT=3;BYDAY=TH
 CREATED:20200330T214705Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://www.jbs.cam.ac.uk/faculty-research/subject-groups/finance/#item-8
 DTEND:20200402T150000Z
 LAST-MODIFIED:20200402T152437Z
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185858Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Friday\, Apr 24\, 2020\, noon ET / 5pm London<br><br><b>Mikkel Plagborg-Møller (Princeton): "Local Projection Inference is Simpler and More Robust Than You Think" (with José Luis Montiel Olea)</b><br><b>https://www.chamberlainseminar.org/<br></b>
 DTEND:20200424T173000Z
 LAST-MODIFIED:20200330T185858Z
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T185956Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br><a href="https://www.virtualfinance.org/">https://www.virtualfinance.org/</a><br>Register:<a href="https://ucla.zoom.us/webinar/register/WN_Fx9l9wPRSUSywAe8ZC5qxA">https://ucla.zoom.us/webinar/register/WN_Fx9l9wPRSUSywAe8ZC5qxA</a>
 DTEND:20200406T175000Z
 LAST-MODIFIED:20200406T185956Z
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T014836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:"AI and Jobs: Evidence from Online Vacancies"  
 DTEND:20200609T181500Z
 LAST-MODIFIED:20200422T014849Z
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200401T135221Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\nPaper: https://t.co/mTKzzP7TT5?amp=1\nRegister: https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform
 DTEND:20200406T190000Z
 LAST-MODIFIED:20200401T135221Z
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185341Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<span><span><span>Giulia Giupponi and </span>Camille Landais:</span><i><span> </span><a href="https://www.dropbox.com/s/lz54swyqt0gfel2/STW.pdf?dl=0" target="_blank">Subsidizing Labor Hoarding in Recessions:The Employment &amp\; Welfare Effects of Short Time Work</a></i></span>
 DTEND:20200410T190000Z
 LAST-MODIFIED:20200330T185341Z
@@ -163,7 +163,7 @@ EXDATE;TZID=Europe/Vienna:20200429T160000
 EXDATE;TZID=Europe/Vienna:20200422T160000
 CREATED:20200403T140420Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Site: https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#
 DTEND:20200415T150000Z
 LAST-MODIFIED:20200403T140420Z
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184907Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200430T173000Z
 LAST-MODIFIED:20200330T211245Z
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184809Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200407T173000Z
 LAST-MODIFIED:20200330T211133Z
@@ -204,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T212804Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/ocis/
 DTEND:20200421T163000Z
 LAST-MODIFIED:20200330T212821Z
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T180820Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/wefi/home/monday-april-6th-tania-babina?authuser=0">https://sites.google.com/view/wefi/home/monday-april-6th-tania-babina?authuser=0</a>
 DTEND:20200406T172000Z
 LAST-MODIFIED:20200402T205626Z
@@ -230,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T135550Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
 DTEND:20200403T173000Z
 LAST-MODIFIED:20200403T135550Z
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T215243Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DTEND:20200403T154500Z
 LAST-MODIFIED:20200330T215243Z
 LOCATION:https://georgetown.zoom.us/j/982163916\, 
@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185837Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Friday\, Apr 10\, 2020\, noon ET / 5pm London<br><br><b>Tim Armstrong (Yale)</b><b>: "Robust Empirical Bayes Confidence Intervals" (with Michal Kolesár and Mikkel Plagborg-Møller)</b><br><b>https://www.chamberlainseminar.org/<br></b>
 DTEND:20200410T173000Z
 LAST-MODIFIED:20200330T185838Z
@@ -269,7 +269,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200415T191637Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<b>Thursday\, April 30\, 2020 - Allen Berger\, University of South Carolina</b> - <i>Bank Sentiment and Liquidity Hoarding</i> (with Hugh H. Kim and Xiaonan (Flora) Ma)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
 DTEND:20200430T180000Z
 LAST-MODIFIED:20200415T191835Z
@@ -284,7 +284,7 @@ RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200606T035959Z;BYDAY=FR
 CREATED:20200407T175359Z
 SEQUENCE:0
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Website: https://www.fpeckert.me/qse/
 DTEND:20200417T163000Z
 LAST-MODIFIED:20200422T020250Z
@@ -299,7 +299,7 @@ CREATED:20200330T215749Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20200515
 DTEND;VALUE=DATE:20200516
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/dc-io-day
 LAST-MODIFIED:20200330T215901Z
 STATUS:CONFIRMED
@@ -313,7 +313,7 @@ SEQUENCE:0
 DTSTART;VALUE=DATE:20200423
 DTEND;VALUE=DATE:20200424
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://hecspringfinance.github.io/
 LAST-MODIFIED:20200414T164420Z
 STATUS:CONFIRMED
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T135154Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Register: https://zoom.us/webinar/register/WN_KJYgJqoLQoOYbmXhChqT6w
 DTEND:20200409T140000Z
 LAST-MODIFIED:20200403T135154Z
@@ -337,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200413T211710Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<h3>If you are interested in joining the seminar\, please send an email to&nbsp\;<a href="mailto:cfmp@georgetown.edu">cfmp@georgetown.edu</a>&nbsp\;to be added to the Zoom mailing list.<br></h3><h3><strong><a href="https://www.chicagobooth.edu/faculty/directory/z/luigi-zingales" id="ow461" __is_owner="true">Luigi Zingales</a></strong>–&nbsp\;<a href="https://georgetown.box.com/s/9dijx04diu0qjnnpgpnycb0ujftfarv3" id="ow457" __is_owner="true">“Kill Zone”</a></h3><br><figure><a href="https://www.chicagobooth.edu/faculty/directory/z/luigi-zingales"></a></figure><p>Luigi Zingales is the Robert C. McCormack Distinguished Service Professor of Entrepreneurship and Finance. He has held positions at National Bureau of Economic Research\, the Center for Economic Policy Research\, the European Governance Institute\, Il Sole 24 Ore\, and the Committee on Capital Markets Regulation. Professor Zingales co-developed the&nbsp\;<a href="http://www.financialtrustindex.org/about.htm">Financial Trust Index</a>.</p>
 DTEND:20200417T170000Z
 LAST-MODIFIED:20200413T211710Z
@@ -352,7 +352,7 @@ CREATED:20200330T215843Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200410
 DTEND;VALUE=DATE:20200411
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\nSignup: https://docs.google.com/forms/d/e/1FAIpQLSey41-N0lrRLQeV4r46KYVysdUJScUbWMQUSJYvVH0_gnuclw/viewform
 LAST-MODIFIED:20200330T215843Z
 STATUS:CONFIRMED
@@ -363,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T213107Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br>https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view<br><a href="http://papers.okuyamayoko.com/JMP_YokoOkuyama_Yale.pdf" id="ow7025" __is_owner="true">paper</a>
 DTEND:20200330T140000Z
 LAST-MODIFIED:20200330T213107Z
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184816Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200409T173000Z
 LAST-MODIFIED:20200330T211147Z
@@ -390,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184930Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200512T173000Z
 LAST-MODIFIED:20200330T211310Z
@@ -403,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T212850Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/ocis/
 DTEND:20200428T163000Z
 LAST-MODIFIED:20200330T212850Z
@@ -418,7 +418,7 @@ RRULE:FREQ=WEEKLY;BYDAY=WE
 CREATED:20200414T165113Z
 SEQUENCE:1
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars
 DTEND:20200415T170000Z
 LAST-MODIFIED:20200414T165215Z
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200620T035959Z;BYDAY=FR
 CREATED:20200402T153211Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\nCalendar: http://jenniferdoleac.com/wp-content/uploads/2020/04/DiscriminationSeminarInfo.pdf\nSubscribe here: https://docs.google.com/forms/d/e/1FAIpQLSfMj6H4Lv2x7P0sCgg4Qf690pEsDG5SOvvBU1I2g5MC0XEg3A/viewform
 DTEND:20200417T180000Z
 LAST-MODIFIED:20200402T153211Z
@@ -445,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T190750Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/wefi/home/monday-april-20th-luke-taylor?authuser=0">https://sites.google.com/view/wefi/home/monday-april-20th-luke-taylor?authuser=0</a>
 DTEND:20200420T173000Z
 LAST-MODIFIED:20200330T190750Z
@@ -458,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T212926Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/ocis/
 DTEND:20200505T163000Z
 LAST-MODIFIED:20200330T212926Z
@@ -473,7 +473,7 @@ CREATED:20200330T191231Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200515
 DTEND;VALUE=DATE:20200516
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<p><strong>Date</strong>: Friday May 15\, 2020<strong>Past programs</strong>: <a href="http://econweb.umd.edu/~sweeting/dc_io_conference2019.html">http://econweb.umd.edu/~sweeting/dc_io_conference2019.html </a></p><p><strong>Submissions</strong>Submissions are invited for the seventh annual Washington DC Industrial Organization Conference to be held via Zoom on Friday May 15\, 2020. The conference seeks papers dealing with theoretical\, policy or empirical topics related to Industrial Organization\, broadly defined. A program committee will select papers and discussants.</p><p>Please submit .pdf copies of papers to <a href="mailto:dcioday@gmail.com">dcioday@gmail.com</a> by <strong>March 31st\, 2020</strong>.  Selected authors will be notified in April.</p><p>https://sites.google.com/view/dc-io-day</p>
 LAST-MODIFIED:20200330T191231Z
 STATUS:CONFIRMED
@@ -484,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T210050Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Caltech Economic Theory Seminar\nhttps://twitter.com/CaltechEconThry
 DTEND:20200408T200000Z
 LAST-MODIFIED:20200330T232025Z
@@ -498,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200415T191713Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:§&nbsp\;&nbsp\; <b>Thursday\, May 7\, 2020 - Anjan Thakor\, Washington University in St. Louis -</b> <i>Bank Capital and (Seeing Through) the Illiquidity Fog</i> (with Fenghua Song)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
 DTEND:20200507T180000Z
 LAST-MODIFIED:20200415T191824Z
@@ -513,7 +513,7 @@ RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200423T235959Z;BYDAY=FR
 EXDATE:20200410T143000Z
 CREATED:20200330T213802Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/
 DTEND:20200403T160000Z
 LAST-MODIFIED:20200402T180655Z
@@ -526,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184914Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DTEND:20200505T173000Z
 LAST-MODIFIED:20200330T211254Z
 DTSTART:20200505T160000Z
@@ -540,7 +540,7 @@ CREATED:20200330T181448Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200410
 DTEND;VALUE=DATE:20200411
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://www.colorado.edu/business/finance-cloud">https://www.colorado.edu/business/finance-cloud</a>
 LAST-MODIFIED:20200330T181448Z
 STATUS:CONFIRMED
@@ -551,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184845Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200421T173000Z
 LAST-MODIFIED:20200330T211226Z
@@ -565,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200401T181535Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br>Paper: <a href="https://sites.google.com/site/kellyshue/files/GenderGapinHousingReturns.pdf?attredirects=0">https://sites.google.com/site/kellyshue/files/GenderGapinHousingReturns.pdf?attredirects=0</a><br><br>Website: https://sites.google.com/view/virtual-finance-seminar/home
 DTEND:20200407T180000Z
 LAST-MODIFIED:20200407T173841Z
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;BYDAY=MO
 CREATED:20200331T173437Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\nhttps://sites.google.com/view/urban-econ-online\n\nContact econ.urban.envi.online@gmail.com to register for this seminar.
 DTEND:20200413T170000Z
 LAST-MODIFIED:20200407T174850Z
@@ -592,7 +592,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T171838Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\n\nRichard A. Mayo Center for Asset Management\nSpeaker Series: The Economic and Financial Implications of COVID-19\n\nhttps://www.darden.virginia.edu/mayo-center/events/speaker-series-economic-financial-implications-covid-19\n Register here: https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101803996494 
 DTEND:20200417T180000Z
 LAST-MODIFIED:20200405T171935Z
@@ -605,7 +605,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T212705Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/ocis/
 DTEND:20200414T163000Z
 LAST-MODIFIED:20200330T212733Z
@@ -618,7 +618,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T205914Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Caltech Econ Theory\nhttps://twitter.com/CaltechEconThry
 DTEND:20200401T200000Z
 LAST-MODIFIED:20200330T232012Z
@@ -632,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T190712Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://www.virtualfinance.org/">https://www.virtualfinance.org/</a><br><br><br><ul><li><p>Please register <a href="https://ucla.zoom.us/webinar/register/WN_WuzgzF1wSeKCPrv8CcCwDg">here</a> to attend the meeting on Zoom.</p></li></ul><h3><br><br><br><a href="https://www.virtualfinance.org/#h.cj4crqwg5pj6"></a></h3>
 DTEND:20200417T174500Z
 LAST-MODIFIED:20200406T190712Z
@@ -645,7 +645,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200401T142337Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\nRegister: https://edrubin.typeform.com/to/WpCbOW\nWebsite: https://gosee.io/index.html
 DTEND:20200422T160000Z
 LAST-MODIFIED:20200401T142337Z
@@ -658,7 +658,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T012102Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DTEND:20200603T153000Z
 LAST-MODIFIED:20200406T012332Z
 DTSTART:20200603T140000Z
@@ -670,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T215554Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Virtual Finance & Economics Conference 2020\nAgenda: https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e8f6843db73e253130e9983/1586456644271/virtual-conf-agenda.pdf\n\nhttps://nyu.zoom.us/j/95748570288\n\n\n\nRSVP: https://bit.ly/2JPh899
 DTEND:20200417T210000Z
 LAST-MODIFIED:20200416T234854Z
@@ -684,7 +684,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200529T065959Z;BYDAY=TH
 CREATED:20200330T214322Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:http://jenniferdoleac.com/online-economics-of-crime-seminar/
 DTEND:20200402T233000Z
 LAST-MODIFIED:20200330T214322Z
@@ -697,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T014836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow857" __is_owner="true">"</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow853" __is_owner="true">Talent Discovery\, Layoff Risk\, and Unemployment Insurance"</a>
 DTEND:20200526T181500Z
 LAST-MODIFIED:20200422T014849Z
@@ -711,7 +711,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T135623Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
 DTEND:20200413T173000Z
 LAST-MODIFIED:20200403T135623Z
@@ -726,7 +726,7 @@ RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR
 CREATED:20200407T175806Z
 SEQUENCE:0
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Website: https://www.rohitlamba.com/penntheon
 DTEND:20200410T190000Z
 LAST-MODIFIED:20200407T180201Z
@@ -739,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184921Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200507T173000Z
 LAST-MODIFIED:20200330T211303Z
@@ -753,7 +753,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T014836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:"Human Capitalists"
 DTEND:20200512T181500Z
 LAST-MODIFIED:20200422T014849Z
@@ -767,7 +767,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T012102Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
 DTEND:20200415T153000Z
 LAST-MODIFIED:20200406T012701Z
@@ -780,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T135730Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
 DTEND:20200406T173000Z
 LAST-MODIFIED:20200403T135730Z
@@ -793,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184747Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200331T173000Z
 LAST-MODIFIED:20200330T211122Z
@@ -807,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T190504Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DTEND:20200408T174500Z
 LAST-MODIFIED:20200406T190504Z
 DTSTART:20200408T163000Z
@@ -819,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T211720Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/ocis/
 DTEND:20200407T163000Z
 LAST-MODIFIED:20200330T211720Z
@@ -832,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200416T173000Z
 LAST-MODIFIED:20200330T211211Z
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 CREATED:20200330T185125Z
 SEQUENCE:2
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:\n\nRichard A. Mayo Center for Asset Management\n\nSpeaker Series: The Economic and Financial Implications of COVID-19\nMaureen O'Hara\n\nhttps://www.darden.virginia.edu/mayo-center/events/speaker-series-economic-financial-implications-covid-19\n\nRegister here: 
 DTEND:20200424T180000Z
 LAST-MODIFIED:20200405T172203Z
@@ -860,7 +860,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185654Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/
 DTEND:20200403T180000Z
 LAST-MODIFIED:20200330T185654Z
@@ -873,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184853Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200423T173000Z
 LAST-MODIFIED:20200330T211232Z
@@ -886,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184827Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DTEND:20200414T173000Z
 LAST-MODIFIED:20200330T211158Z
 LOCATION:London
@@ -899,7 +899,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185351Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<p><span>Stefan Pichler</span>\, <span>Katherine Wen</span>\, and <span>Nicolas Robert Ziebarth</span>: <span><a href="https://www.researchgate.net/publication/336832189_Positive_Health_Externalities_of_Mandating_Paid_Sick_Leave" target="_blank"><em>Positive Health Externalities of Mandating Paid Sick Leave</em></a><br></span></p><p><span>Stefan Pichler and Nicolas Robert Ziebarth: </span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em>The pros and</em></a></span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em> </em></a></span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em>cons of sick pay schemes: Testing for contagious presenteeism and noncontagious absenteeism behavior</em></a></span></p>
 DTEND:20200417T190000Z
 LAST-MODIFIED:20200330T185351Z
@@ -914,7 +914,7 @@ CREATED:20200330T181530Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200424
 DTEND;VALUE=DATE:20200425
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://www.colorado.edu/business/finance-cloud">https://www.colorado.edu/business/finance-cloud</a>
 LAST-MODIFIED:20200330T181530Z
 STATUS:CONFIRMED
@@ -925,7 +925,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185333Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<p><span>Martin S. Eichenbaum\,<span><span> Sergio Rebelo\, and</span> <span>Mathias Traband</span><span>t</span></span> -- </span><i><a href="https://www.nber.org/papers/w26882" target="_blank"><span>The Macroeconomics of Epidemics</span></a></i><span><br></span></p><p><span>David Berger\, Kyle Herkenhoff\, and Simon Mongey: </span><a href="http://www.simonmongey.com/uploads/6/5/6/6/65665741/bhm_corona_v4.pdf" target="_blank"><span>An SEIR Infectious Disease Model with Testing and Conditional Quarantine</span></a></p><p><span></span></p>
 DTEND:20200406T181500Z
 LAST-MODIFIED:20200330T185333Z
@@ -940,7 +940,7 @@ CREATED:20200330T182213Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200417
 DTEND;VALUE=DATE:20200418
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e753140c2225859fa93ba1e/1584738624656/callforpapers.pdf">https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e753140c2225859fa93ba1e/1584738624656/callforpapers.pdf</a>
 LAST-MODIFIED:20200330T182213Z
 STATUS:CONFIRMED
@@ -951,7 +951,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T014836Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:"<a href="https://www.kellogg.northwestern.edu/faculty/zator/DigitAutom.pdf">Digitization and Automation: Firm Investment and Labor Outcomes</a>"&nbsp\;
 DTEND:20200623T181500Z
 LAST-MODIFIED:20200422T014849Z
@@ -967,7 +967,7 @@ RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=WE
 CREATED:20200408T224046Z
 SEQUENCE:0
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Website: https://michaldzielinski.com/futfininfo/webinar-series/
 DTEND:20200422T150000Z
 LAST-MODIFIED:20200408T224058Z
@@ -980,7 +980,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T012102Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
 DTEND:20200429T153000Z
 LAST-MODIFIED:20200406T012737Z
@@ -993,7 +993,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T135657Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
 DTEND:20200410T173000Z
 LAST-MODIFIED:20200403T135748Z
@@ -1006,7 +1006,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T190829Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br><a href="https://www.workshop-efi.com/schedule/monday-may-4th-xavier-jaravel" id="ow593" __is_owner="true">https://www.workshop-efi.com/schedule/monday-may-4th-xavier-jaravel</a><br><a href="https://www.workshop-efi.com/" id="ow589" __is_owner="true">https://www.workshop-efi.com/</a>
 DTEND:20200504T170000Z
 LAST-MODIFIED:20200422T162540Z
@@ -1019,7 +1019,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T211612Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<span><br><span>Description:</span><a href="https://sites.google.com/view/ocis/">https://sites.google.com/view/ocis/</a></span>
 DTEND:20200331T163000Z
 LAST-MODIFIED:20200330T232013Z
@@ -1033,7 +1033,7 @@ BEGIN:VEVENT
 CREATED:20200422T014946Z
 SEQUENCE:0
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<p>Speaker: <a href="https://faculty.chicagobooth.edu/constantine.yannelis/index.html">Constantine Yannelis</a> (Chicago Booth)</p>Discussant: <a href="http://arpitgupta.info/">Arpit Gupta</a> (NYU Stern)
 DTEND:20200428T160000Z
 LAST-MODIFIED:20200422T015006Z
@@ -1047,7 +1047,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T140630Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Site: https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#
 DTEND:20200603T150000Z
 LAST-MODIFIED:20200403T140630Z
@@ -1060,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184756Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200402T173000Z
 LAST-MODIFIED:20200330T214027Z
@@ -1074,7 +1074,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200406T012102Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
 DTEND:20200422T153000Z
 LAST-MODIFIED:20200406T012748Z
@@ -1089,7 +1089,7 @@ CREATED:20200330T180948Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20200403
 DTEND;VALUE=DATE:20200404
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br><b><a href="https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101541996846" id="ow2113" __is_owner="true">Registration</a></b><b><br><b><br></b>Speaker: Campbell Harvey\,&nbsp\;</b>Partner and Senior Advisor\, Research Affiliates\, Professor of Finance\, Fuqua School of Business at Duke University<br><br><b>Topic: The Economic and Financial Implications of COVID-19</b><br><br>Professor Harvey will provide an update and outlook for the global economy and financial markets as the current crisis unfolds. Topics he will discuss include:<br><br>Potential path for COVID-19<br><br>How severe is the coming economic contraction?<br><br>Putting the U.S. fiscal aid package into context<br><br>The response from monetary policymakers<br><br>Are financial markets facing a liquidity trap?<br><br>Where do we go from here?<br><br><b>Moderator: Pedro Matos\,</b>&nbsp\;John G. Macfarlane Family Chair and Professor of Business Administration\, Academic Director of Richard A. Mayo Center for Asset Management<br><br>There will be a Q&amp\;A session following the prepared remarks.<br><br>- - - - -<br><br><i>The purpose of this virtual seminar series is two-fold:</i><br><br><i>1. Given the unprecedented nature of the current situation\, we believe that academic insights can offer tremendous value. The seminar series will bring top academic research and its relevance to a broader public forum\; and</i><br><br><i>2. This virtual seminar series will provide a venue for continued sharing of academic ideas of practical relevance in a time when travel to conferences and seminars has been significantly impacted.</i><br><br><i>Hosted on Zoom\, each seminar will consist of 30 minutes of presentation by a speaker followed by 30 minutes of moderated Q&amp\;A.</i>
 LAST-MODIFIED:20200330T180948Z
 STATUS:CONFIRMED
@@ -1100,7 +1100,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T214506Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<br><a href="https://www.fma.org/virtual-seminar">https://www.fma.org/virtual-seminar</a><br><br><span><br><b><a href="https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101541996846">Registration</a></b><b><br><b><br></b>Speaker: Campbell Harvey\,&nbsp\;</b>Partner and Senior Advisor\, Research Affiliates\, Professor of Finance\, Fuqua School of Business at Duke University<br><br><b>Topic: The Economic and Financial Implications of COVID-19</b><br><br>Professor Harvey will provide an update and outlook for the global economy and financial markets as the current crisis unfolds. Topics he will discuss include:<br><br>Potential path for COVID-19<br><br>How severe is the coming economic contraction?<br><br>Putting the U.S. fiscal aid package into context<br><br>The response from monetary policymakers<br><br>Are financial markets facing a liquidity trap?<br><br>Where do we go from here?<br><br><b>Moderator: Pedro Matos\,</b>&nbsp\;John G. Macfarlane Family Chair and Professor of Business Administration\, Academic Director of Richard A. Mayo Center for Asset Management<br><br>There will be a Q&amp\;A session following the prepared remarks.<br><br>- - - - -<br><br><i>The purpose of this virtual seminar series is two-fold:</i><br><br><i>1. Given the unprecedented nature of the current situation\, we believe that academic insights can offer tremendous value. The seminar series will bring top academic research and its relevance to a broader public forum\; and</i><br><br><i>2. This virtual seminar series will provide a venue for continued sharing of academic ideas of practical relevance in a time when travel to conferences and seminars has been significantly impacted.</i><br><br><i>Hosted on Zoom\, each seminar will consist of 30 minutes of presentation by a speaker followed by 30 minutes of moderated Q&amp\;A.</i></span>
 DTEND:20200403T180000Z
 LAST-MODIFIED:20200330T220045Z
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;BYDAY=TU
 CREATED:20200422T124804Z
 SEQUENCE:1
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/cmichaudleclerc/geez-seminars
 DTEND:20200421T170000Z
 LAST-MODIFIED:20200422T124811Z
@@ -1128,7 +1128,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=TH
 CREATED:20200407T180146Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Website: http://virtual-md-seminar.com/
 DTEND:20200409T150000Z
 LAST-MODIFIED:20200407T180146Z
@@ -1141,7 +1141,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T184900Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
 DTEND:20200428T173000Z
 LAST-MODIFIED:20200330T211240Z
@@ -1156,7 +1156,7 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;BYDAY=TU
 CREATED:20200414T163728Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<span>https://twitter.com/CMichaudLeclerc/status/1248254956186079232?s=20</span>
 DTEND:20200421T163000Z
 LAST-MODIFIED:20200414T163728Z
@@ -1169,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200330T185734Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
 DTEND:20200408T153000Z
 LAST-MODIFIED:20200330T185734Z
@@ -1184,7 +1184,7 @@ RRULE:FREQ=WEEKLY;BYDAY=TU
 CREATED:20200407T174103Z
 SEQUENCE:0
 ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:Website: https://sites.google.com/view/virtual-finance-seminar/home
 DTEND:20200414T180000Z
 LAST-MODIFIED:20200407T174214Z
@@ -1197,7 +1197,7 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200415T191759Z
 SEQUENCE:0
-DTSTAMP:20200425T184016Z
+DTSTAMP:20200425T184103Z
 DESCRIPTION:<b>Thursday\, May 14\, 2020 - Phil Strahan\, Boston College</b> - <a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1aMOkpY95wWR-oZdNyEwwGaifAbJjp-sm&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436853389&amp\;sdata=LHchUacEA%2FsuprbOVBOV4YQ%2FYhRVS9rVnzoqMzMCSAY%3D&amp\;reserved=0"><i>Bank Stress Testing: Public Interest or Regulatory Capture?</i></a><i></i> (with Thomas Ian Schneider and Jun Yang)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
 DTEND:20200514T180000Z
 LAST-MODIFIED:20200415T191759Z
