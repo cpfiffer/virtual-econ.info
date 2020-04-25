@@ -3,17 +3,13 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150704Z
-X-TEAMUP-WHO:Jody Sindelar
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenter: Jody Sindelar (Yale University)\n\n
-DTEND:20191028T143000Z
-LAST-MODIFIED:20191014T204532Z
-LOCATION:RWI Essen/ E-Werk
-DTSTART:20191028T130000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Jody Sindelar)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200514T173000Z
+LAST-MODIFIED:20200330T211318Z
+DTSTART:20200514T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Claudia Sahm: Title tba
 TRANSP:OPAQUE
 UID:TU460537326
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460537326
@@ -21,11 +17,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200403T161240Z
 SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:"Optimal Unilateral Carbon Policy"<br><br>More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here: <a href="https://forms.gle/RGsumGsdYtgajj2i7" id="ow566" __is_owner="true">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions? virtual.itm.seminar@gmail.com
-DTEND:20200409T193000Z
-LAST-MODIFIED:20200403T161815Z
-DTSTART:20200409T180000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view?fbclid=IwAR0AM210xvqY4855JujLPFIcReZhS9Y0nESamVMNdxIbD-rswEk2V8bOQgU">https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view?fbclid=IwAR0AM210xvqY4855JujLPFIcReZhS9Y0nESamVMNdxIbD-rswEk2V8bOQgU</a>
+DTEND:20200406T140000Z
+LAST-MODIFIED:20200406T204538Z
+DTSTART:20200406T130000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Sam Kortum
 TRANSP:TRANSPARENT
@@ -33,28 +29,27 @@ UID:7je18gi323qsmtfsb6vjkun6eu@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T141016Z
-X-TEAMUP-WHO:Johannes Kunz
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Johannes Kunz (Monash University)\n\n
-DTEND:20200511T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200511T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar (Johannes Kunz)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:"How Are Small Businesses Adjusting to COVID-19? Early Evidence From a Survey"
+DTEND:20200428T181500Z
+LAST-MODIFIED:20200422T014849Z
+LOCATION:https://sites.google.com/view/lfos
+DTSTART:20200428T171500Z
+STATUS:CONFIRMED
+SUMMARY:LFOS: Zoë Cullen (HBS)
 TRANSP:OPAQUE
 UID:TU698164993
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698164993
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200408T171355Z
-SEQUENCE:1
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200427T163000Z
-LAST-MODIFIED:20200415T173021Z
-DTSTART:20200427T153000Z
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=5;BYDAY=FR
+CREATED:20200330T213802Z
+SEQUENCE:2
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/" id="ow988" __is_owner="true">https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/</a>
+DTEND:20200424T160000Z
+LAST-MODIFIED:20200402T180655Z
+DTSTART:20200424T143000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Pranav Jindal
 TRANSP:TRANSPARENT
@@ -63,62 +58,67 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215945Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200626T174500Z
-LAST-MODIFIED:20200416T183043Z
-DTSTART:20200626T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://thies.github.io/real-estate-seminar/
+DTEND:20200402T170000Z
+LAST-MODIFIED:20200330T214918Z
+DTSTART:20200402T160000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Pierre Collin-Dufresne
 TRANSP:OPAQUE
 UID:44vdlr7r1gskkik5dhdav21c5u@google.com
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=3;BYDAY=TH
+CREATED:20200330T214705Z
+SEQUENCE:1
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://www.jbs.cam.ac.uk/faculty-research/subject-groups/finance/#item-8
+DTEND:20200402T150000Z
+LAST-MODIFIED:20200402T152437Z
+DTSTART:20200402T130000Z
+STATUS:CONFIRMED
+SUMMARY:Cambridge Judge Finance Group
+TRANSP:OPAQUE
+UID:57edn6sr7187osc50vhb3bpqgo@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200330T185858Z
 SEQUENCE:0
-CREATED:20200415T143048Z
-X-TEAMUP-WHO:Stefanie Schurer
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Stefanie Schurer (University of Sydney)\n\n
-DTEND:20200630T133000Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200630T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Stefanie Schurer)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Friday\, Apr 24\, 2020\, noon ET / 5pm London<br><br><b>Mikkel Plagborg-Møller (Princeton): "Local Projection Inference is Simpler and More Robust Than You Think" (with José Luis Montiel Olea)</b><br><b>https://www.chamberlainseminar.org/<br></b>
+DTEND:20200424T173000Z
+LAST-MODIFIED:20200330T185858Z
+DTSTART:20200424T160000Z
+STATUS:CONFIRMED
+SUMMARY:Chamberlain Seminar: Mikkel Plagborg-Møller (Princeton)
 TRANSP:OPAQUE
 UID:TU698175461
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698175461
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150904Z
-X-TEAMUP-WHO:Jonathan Briody
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenter: Jonathan Briody (University College Dublin)\n\n
-DTEND:20191118T143000Z
-LAST-MODIFIED:20190917T151343Z
-LOCATION:RWI Essen /E-Werk
-DTSTART:20191118T130000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Jonathan Briody)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br><a href="https://www.virtualfinance.org/">https://www.virtualfinance.org/</a><br>Register:<a href="https://ucla.zoom.us/webinar/register/WN_Fx9l9wPRSUSywAe8ZC5qxA">https://ucla.zoom.us/webinar/register/WN_Fx9l9wPRSUSywAe8ZC5qxA</a>
+DTEND:20200406T175000Z
+LAST-MODIFIED:20200406T185956Z
+DTSTART:20200406T163000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Finance Workshop: Darrell Duffie (Stanford GSB)
 TRANSP:OPAQUE
 UID:TU460540694
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460540694
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T151111Z
-X-TEAMUP-WHO:Adam Pilny
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Adam Pilny (RWI)\n\n
-DTEND:20200120T143000Z
-LAST-MODIFIED:20190917T152316Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200120T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Adam Pilny)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:"AI and Jobs: Evidence from Online Vacancies"  
+DTEND:20200609T181500Z
+LAST-MODIFIED:20200422T014849Z
+LOCATION:https://sites.google.com/view/lfos\, 
+DTSTART:20200609T171500Z
+STATUS:CONFIRMED
+SUMMARY:LFOS: Joe Hazell (LSE)
 TRANSP:OPAQUE
 UID:TU460541563
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460541563
@@ -126,12 +126,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T003809Z
 SEQUENCE:0
-DTSTAMP:20200425T194539Z
-DESCRIPTION:"How Are Small Businesses Adjusting to COVID-19? Early Evidence From a Survey"
-DTEND:20200428T181500Z
-LAST-MODIFIED:20200422T003809Z
-LOCATION:https://sites.google.com/view/lfos
-DTSTART:20200428T171500Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\nPaper: https://t.co/mTKzzP7TT5?amp=1\nRegister: https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform
+DTEND:20200406T190000Z
+LAST-MODIFIED:20200401T135221Z
+DTSTART:20200406T180000Z
 STATUS:CONFIRMED
 SUMMARY:LFOS: Zoë Cullen (HBS)
 TRANSP:OPAQUE
@@ -140,12 +139,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T003945Z
 SEQUENCE:0
-DTSTAMP:20200425T194539Z
-DESCRIPTION:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow857" __is_owner="true">"</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow853" __is_owner="true">Talent Discovery\, Layoff Risk\, and Unemployment Insurance"</a>
-DTEND:20200526T181500Z
-LAST-MODIFIED:20200422T003945Z
-LOCATION:https://sites.google.com/view/lfos\, 
-DTSTART:20200526T171500Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<span><span><span>Giulia Giupponi and </span>Camille Landais:</span><i><span> </span><a href="https://www.dropbox.com/s/lz54swyqt0gfel2/STW.pdf?dl=0" target="_blank">Subsidizing Labor Hoarding in Recessions:The Employment &amp\; Welfare Effects of Short Time Work</a></i></span>
+DTEND:20200410T190000Z
+LAST-MODIFIED:20200330T185341Z
+DTSTART:20200410T180000Z
 STATUS:CONFIRMED
 SUMMARY:LFOS: Marco Pagano (EIEF)
 TRANSP:OPAQUE
@@ -154,11 +152,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215923Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200619T174500Z
-LAST-MODIFIED:20200405T215923Z
-DTSTART:20200619T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Site: https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#
+DTEND:20200415T150000Z
+LAST-MODIFIED:20200403T140420Z
+DTSTART:20200415T140000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Sydney Ludvigson
 TRANSP:OPAQUE
@@ -167,38 +165,39 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200416T182933Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200508T174500Z
-LAST-MODIFIED:20200416T182933Z
-DTSTART:20200508T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200430T173000Z
+LAST-MODIFIED:20200330T211245Z
+LOCATION:London\, UK
+DTSTART:20200430T160000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Xavier Gabaix
 TRANSP:OPAQUE
 UID:36ncojqjafdcgh8n3db8q3qdvp@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200323T141153Z
-SEQUENCE:2
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200410T161500Z
-LAST-MODIFIED:20200407T160157Z
-DTSTART:20200410T150000Z
+CREATED:20200330T184809Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200407T173000Z
+LAST-MODIFIED:20200330T211133Z
+LOCATION:London\, UK
+DTSTART:20200407T160000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Jim Robinson
 TRANSP:TRANSPARENT
 UID:1kvijgemfftqln10t2q3e77siq@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200514T140000
-CREATED:20200403T161748Z
-SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200514T193000Z
-LAST-MODIFIED:20200423T172936Z
-DTSTART:20200514T180000Z
+CREATED:20200330T212804Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/ocis/
+DTEND:20200421T163000Z
+LAST-MODIFIED:20200330T212821Z
+DTSTART:20200421T153000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Daniel Xu (Duke) - O-ring Production Networks
 TRANSP:OPAQUE
@@ -208,39 +207,37 @@ BEGIN:VEVENT
 RECURRENCE-ID;TZID=America/New_York:20200521T140000
 CREATED:20200403T161748Z
 SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200521T193000Z
-LAST-MODIFIED:20200423T173003Z
-DTSTART:20200521T180000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/wefi/home/monday-april-6th-tania-babina?authuser=0">https://sites.google.com/view/wefi/home/monday-april-6th-tania-babina?authuser=0</a>
+DTEND:20200406T172000Z
+LAST-MODIFIED:20200402T205626Z
+DTSTART:20200406T160000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Nitya Pandalai-Nayar (UT Austin): The Long and Short (Run) of Trade Elasticities
 TRANSP:OPAQUE
 UID:44r9dqg1uqesr955sdvs03hj47@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200528T140000
-CREATED:20200403T161748Z
-SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200528T193000Z
-LAST-MODIFIED:20200423T173237Z
-DTSTART:20200528T180000Z
+CREATED:20200403T135550Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
+DTEND:20200403T173000Z
+LAST-MODIFIED:20200403T135550Z
+DTSTART:20200403T163000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Gene Grossman (Princeton): The ‘New’ Economics of Trade Agreements: From Trade Liberalization to Regulatory Convergence?
 TRANSP:OPAQUE
 UID:44r9dqg1uqesr955sdvs03hj47@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200402T084252Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:Could Machine Learning be a General Purpose Technology? Evidence from Online Job Postings
-DTEND:20200423T160000Z
-LAST-MODIFIED:20200419T181330Z
-DTSTART:20200423T150000Z
+CREATED:20200330T215243Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DTEND:20200403T154500Z
+LAST-MODIFIED:20200330T215243Z
+LOCATION:https://georgetown.zoom.us/j/982163916\, 
+DTSTART:20200403T143000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Avi Goldfarb (University of Toronto)
 TRANSP:OPAQUE
@@ -250,12 +247,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T003900Z
 SEQUENCE:0
-DTSTAMP:20200425T194539Z
-DESCRIPTION:"Human Capitalists"
-DTEND:20200512T181500Z
-LAST-MODIFIED:20200422T003957Z
-LOCATION:https://sites.google.com/view/lfos\, 
-DTSTART:20200512T171500Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Friday\, Apr 10\, 2020\, noon ET / 5pm London<br><br><b>Tim Armstrong (Yale)</b><b>: "Robust Empirical Bayes Confidence Intervals" (with Michal Kolesár and Mikkel Plagborg-Møller)</b><br><b>https://www.chamberlainseminar.org/<br></b>
+DTEND:20200410T173000Z
+LAST-MODIFIED:20200330T185838Z
+DTSTART:20200410T160000Z
 STATUS:CONFIRMED
 SUMMARY:LFOS: Andrea Eisfeldt (UCLA)
 TRANSP:OPAQUE
@@ -264,11 +260,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215415Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at&nbsp\;<a href="http://www.virtualfinance.org" id="ow561" __is_owner="true">www.virtualfinance.org</a>.
-DTEND:20200408T174500Z
-LAST-MODIFIED:20200405T215509Z
-DTSTART:20200408T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<b>Thursday\, April 30\, 2020 - Allen Berger\, University of South Carolina</b> - <i>Bank Sentiment and Liquidity Hoarding</i> (with Hugh H. Kim and Xiaonan (Flora) Ma)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
+DTEND:20200430T180000Z
+LAST-MODIFIED:20200415T191835Z
+DTSTART:20200430T170000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Darrell Duffie
 TRANSP:OPAQUE
@@ -277,25 +273,39 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T004541Z
 SEQUENCE:0
-DTSTAMP:20200425T194539Z
-DESCRIPTION:"AI and Jobs: Evidence from Online Vacancies"  
-DTEND:20200609T181500Z
-LAST-MODIFIED:20200422T004541Z
-LOCATION:https://sites.google.com/view/lfos\, 
-DTSTART:20200609T171500Z
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Website: https://www.fpeckert.me/qse/
+DTEND:20200417T163000Z
+LAST-MODIFIED:20200422T020250Z
+DTSTART:20200417T160000Z
 STATUS:CONFIRMED
 SUMMARY:LFOS: Joe Hazell (LSE)
 TRANSP:OPAQUE
-UID:60sgl11nd6fat3uqmdog86micm@google.com
+UID:3am4i9gq61l88pf1nm00iuf87p@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200330T215749Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20200515
+DTEND;VALUE=DATE:20200516
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/dc-io-day
+LAST-MODIFIED:20200330T215901Z
+STATUS:CONFIRMED
+SUMMARY:DC IO Day
+TRANSP:TRANSPARENT
+UID:5p5dgksflaqbp6fp64mmtfo38j@google.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215550Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200424T174500Z
-LAST-MODIFIED:20200405T215550Z
-DTSTART:20200424T163000Z
+DTSTART;VALUE=DATE:20200423
+DTEND;VALUE=DATE:20200424
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://hecspringfinance.github.io/
+LAST-MODIFIED:20200414T164420Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Hanno Lustig
 TRANSP:OPAQUE
@@ -303,17 +313,13 @@ UID:5st7dd10b9h3jcptttl4qp3bog@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150940Z
-X-TEAMUP-WHO:Reyn van Ewijk
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Reyn van Ewijk (Johannes Gutenberg University Mainz)\n\n
-DTEND:20191125T143000Z
-LAST-MODIFIED:20190917T152130Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20191125T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Reyn van Ewijk)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Register: https://zoom.us/webinar/register/WN_KJYgJqoLQoOYbmXhChqT6w
+DTEND:20200409T140000Z
+LAST-MODIFIED:20200403T135154Z
+DTSTART:20200409T130000Z
+STATUS:CONFIRMED
+SUMMARY:RES: Tirole & Acemoglu: “Economic approaches for analysing the short\, medium term and long run impact of the COVID-19 crisis”
 TRANSP:OPAQUE
 UID:TU460540957
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460540957
@@ -321,38 +327,37 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200410T190602Z
 SEQUENCE:0
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Held via Zoom.  More information and mailing list sign-up at: https://sites.google.com/view/vuwifi
-DTEND:20200430T170000Z
-LAST-MODIFIED:20200410T190649Z
-DTSTART:20200430T160000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<h3>If you are interested in joining the seminar\, please send an email to&nbsp\;<a href="mailto:cfmp@georgetown.edu">cfmp@georgetown.edu</a>&nbsp\;to be added to the Zoom mailing list.<br></h3><h3><strong><a href="https://www.chicagobooth.edu/faculty/directory/z/luigi-zingales" id="ow461" __is_owner="true">Luigi Zingales</a></strong>–&nbsp\;<a href="https://georgetown.box.com/s/9dijx04diu0qjnnpgpnycb0ujftfarv3" id="ow457" __is_owner="true">“Kill Zone”</a></h3><br><figure><a href="https://www.chicagobooth.edu/faculty/directory/z/luigi-zingales"></a></figure><p>Luigi Zingales is the Robert C. McCormack Distinguished Service Professor of Entrepreneurship and Finance. He has held positions at National Bureau of Economic Research\, the Center for Economic Policy Research\, the European Governance Institute\, Il Sole 24 Ore\, and the Committee on Capital Markets Regulation. Professor Zingales co-developed the&nbsp\;<a href="http://www.financialtrustindex.org/about.htm">Financial Trust Index</a>.</p>
+DTEND:20200417T170000Z
+LAST-MODIFIED:20200413T211710Z
+DTSTART:20200417T160000Z
 STATUS:CONFIRMED
 SUMMARY:Allen Berger - Villanova WiFI Seminar
 TRANSP:OPAQUE
 UID:3tbm8rrkfo7sutd3u3dm4rfe72@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200323T141309Z
-SEQUENCE:1
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200424T161500Z
-LAST-MODIFIED:20200407T160215Z
-DTSTART:20200424T150000Z
+CREATED:20200330T215843Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200410
+DTEND;VALUE=DATE:20200411
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\nSignup: https://docs.google.com/forms/d/e/1FAIpQLSey41-N0lrRLQeV4r46KYVysdUJScUbWMQUSJYvVH0_gnuclw/viewform
+LAST-MODIFIED:20200330T215843Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Leeat Yariv
 TRANSP:OPAQUE
 UID:1n0l2nmo1pjuhdc3t2n85ko836@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200415T161102Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200611T160000Z
-LAST-MODIFIED:20200415T161121Z
-DTSTART:20200611T150000Z
+CREATED:20200330T213107Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br>https://drive.google.com/file/d/1d8bT2V-QVsx5bz_r8uJGefM7xe5Qf9zs/view<br><a href="http://papers.okuyamayoko.com/JMP_YokoOkuyama_Yale.pdf" id="ow7025" __is_owner="true">paper</a>
+DTEND:20200330T140000Z
+LAST-MODIFIED:20200330T213107Z
+DTSTART:20200330T130000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Matthew Gentzkow (Stanford University)
 TRANSP:OPAQUE
@@ -361,29 +366,26 @@ URL:https://www.digitalecon.org/seminar
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T141319Z
-X-TEAMUP-WHO:Maryna Ivets
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Maryna Ivets (CINCH)\n\n
-DTEND:20200518T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200518T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (Maryna Ivets)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200409T173000Z
+LAST-MODIFIED:20200330T211147Z
+LOCATION:London\, Vereinigtes Königreich
+DTSTART:20200409T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Martin Eichenbaum\, Sergio Rebelo and Matthias Trabandt: The Macroeconomics of Epidemics
 TRANSP:OPAQUE
 UID:TU698166843
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698166843
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200330T194539Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:Digitization and Product Discovery: The Causal and Welfare Impacts of Reviews and Crowd Ratings
-DTEND:20200409T160000Z
-LAST-MODIFIED:20200415T161201Z
-DTSTART:20200409T150000Z
+CREATED:20200330T184930Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200512T173000Z
+LAST-MODIFIED:20200330T211310Z
+DTSTART:20200512T160000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Joel Waldfogel (University of Minnesota)
 TRANSP:OPAQUE
@@ -391,14 +393,13 @@ UID:7684B285-DFE2-4A22-9624-8209D9EE8433
 URL:https://www.digitalecon.org/seminar
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200416T190054Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200625T160000Z
-LAST-MODIFIED:20200416T190106Z
-DTSTART:20200625T150000Z
+CREATED:20200330T212850Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/ocis/
+DTEND:20200428T163000Z
+LAST-MODIFIED:20200330T212850Z
+DTSTART:20200428T153000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Lynn Wu (Wharton School)
 TRANSP:OPAQUE
@@ -408,10 +409,12 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200326T194322Z
 SEQUENCE:1
-DTSTAMP:20200425T194539Z
-DTEND:20200501T161500Z
-LAST-MODIFIED:20200421T135152Z
-DTSTART:20200501T150000Z
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars
+DTEND:20200415T170000Z
+LAST-MODIFIED:20200414T165215Z
+DTSTART:20200415T160000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Maria Petrova
 TRANSP:OPAQUE
@@ -419,17 +422,13 @@ UID:0u901d5gmmc9upn6f2d03dbrin@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T142511Z
-X-TEAMUP-WHO:George Mackerron
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: George Mackerron (University of Sussex)\n\n
-DTEND:20200615T133000Z
-LAST-MODIFIED:20200415T142528Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200615T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (George Mackerron)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\nCalendar: http://jenniferdoleac.com/wp-content/uploads/2020/04/DiscriminationSeminarInfo.pdf\nSubscribe here: https://docs.google.com/forms/d/e/1FAIpQLSfMj6H4Lv2x7P0sCgg4Qf690pEsDG5SOvvBU1I2g5MC0XEg3A/viewform
+DTEND:20200417T180000Z
+LAST-MODIFIED:20200402T153211Z
+DTSTART:20200417T170000Z
+STATUS:CONFIRMED
+SUMMARY:Online Seminar on the Economics of Discrimination and Disparities
 TRANSP:OPAQUE
 UID:TU698173047
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698173047
@@ -437,11 +436,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200410T190724Z
 SEQUENCE:0
-DTSTAMP:20200425T194540Z
-DESCRIPTION:<span>Held via Zoom.&nbsp\; More information and mailing list sign-up at: https://sites.google.com/view/vuwifi</span>
-DTEND:20200514T170000Z
-LAST-MODIFIED:20200410T190724Z
-DTSTART:20200514T160000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/wefi/home/monday-april-20th-luke-taylor?authuser=0">https://sites.google.com/view/wefi/home/monday-april-20th-luke-taylor?authuser=0</a>
+DTEND:20200420T173000Z
+LAST-MODIFIED:20200330T190750Z
+DTSTART:20200420T160000Z
 STATUS:CONFIRMED
 SUMMARY:Phil Strahan - Villanova WiFI Seminar
 TRANSP:OPAQUE
@@ -449,47 +448,38 @@ UID:1p4bgork2hdleqe10lktmrl336@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200101T220532Z
-X-TEAMUP-WHO:Nina Schwarz and Sergej Bechtoldt
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenters: Nina Schwarz (University of Duisburg-Essen) and Sergej Bechtoldt (University of Duisburg-Essen/RGS Econ)\n\n
-DTEND:20200106T143000Z
-LAST-MODIFIED:20200101T220719Z
-LOCATION:RWI Essen/E-Werk
-DTSTART:20200106T130000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Nina Schwarz and Sergej Bechtoldt)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/ocis/
+DTEND:20200505T163000Z
+LAST-MODIFIED:20200330T212926Z
+DTSTART:20200505T153000Z
+STATUS:CONFIRMED
+SUMMARY:Online Causal Inference Seminar: Jonas Peters (University of Copenhagen): tba
 TRANSP:OPAQUE
 UID:TU563104426
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/563104426
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T142828Z
-X-TEAMUP-WHO:Maximilian Lückemann
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Maximilian Lückemann (IHE Hannover)\n\n
-DTEND:20200622T133000Z
-LAST-MODIFIED:20200415T142849Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200622T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Maximilian Lückemann)
-TRANSP:OPAQUE
-UID:TU698174169
-URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698174169
+DTSTART;VALUE=DATE:20200515
+DTEND;VALUE=DATE:20200516
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<p><strong>Date</strong>: Friday May 15\, 2020<strong>Past programs</strong>: <a href="http://econweb.umd.edu/~sweeting/dc_io_conference2019.html">http://econweb.umd.edu/~sweeting/dc_io_conference2019.html </a></p><p><strong>Submissions</strong>Submissions are invited for the seventh annual Washington DC Industrial Organization Conference to be held via Zoom on Friday May 15\, 2020. The conference seeks papers dealing with theoretical\, policy or empirical topics related to Industrial Organization\, broadly defined. A program committee will select papers and discussants.</p><p>Please submit .pdf copies of papers to <a href="mailto:dcioday@gmail.com">dcioday@gmail.com</a> by <strong>March 31st\, 2020</strong>.  Selected authors will be notified in April.</p><p>https://sites.google.com/view/dc-io-day</p>
+LAST-MODIFIED:20200330T191231Z
+STATUS:CONFIRMED
+SUMMARY:DC IO Day
+TRANSP:TRANSPARENT
+UID:41kdiinrevie9698ek8s5evrp8@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200417T123242Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200709T160000Z
-LAST-MODIFIED:20200417T174427Z
-DTSTART:20200709T150000Z
+CREATED:20200330T210050Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Caltech Economic Theory Seminar\nhttps://twitter.com/CaltechEconThry
+DTEND:20200408T200000Z
+LAST-MODIFIED:20200330T232025Z
+LOCATION:https://www.twitch.tv/caltechecontheory
+DTSTART:20200408T190000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Chris Forman (Cornell University)
 TRANSP:OPAQUE
@@ -498,29 +488,27 @@ URL:https://www.digitalecon.org/seminar
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20191122T171328Z
-X-TEAMUP-WHO:CINCH Christmas Dinner
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:CINCH Christmas Dinner on Dec 16\, 2019\n\nTime: 6pm\n\nPlace: Restaurant Habana (Zweigertstraße 55\, 45130 Essen)\n\n
-DTEND:20191216T210000Z
-LAST-MODIFIED:20191208T150132Z
-LOCATION:Zweigertstraße 55\, 45130 Essen
-DTSTART:20191216T170000Z
-SUMMARY:CINCH Christmas Dinner @ Restaurant Habana (CINCH Christmas Dinner)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:§&nbsp\;&nbsp\; <b>Thursday\, May 7\, 2020 - Anjan Thakor\, Washington University in St. Louis -</b> <i>Bank Capital and (Seeing Through) the Illiquidity Fog</i> (with Fenghua Song)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
+DTEND:20200507T180000Z
+LAST-MODIFIED:20200415T191824Z
+DTSTART:20200507T170000Z
+STATUS:CONFIRMED
+SUMMARY:Villanova Webinars in Financial Intermediation (WiFI)
 TRANSP:OPAQUE
 UID:TU525956695
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/525956695
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200405T215531Z
-SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200417T174500Z
-LAST-MODIFIED:20200405T215531Z
-DTSTART:20200417T163000Z
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200423T235959Z;BYDAY=FR
+EXDATE:20200410T143000Z
+CREATED:20200330T213802Z
+SEQUENCE:1
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/
+DTEND:20200403T160000Z
+LAST-MODIFIED:20200402T180655Z
+DTSTART:20200403T143000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Ralph Koijen
 TRANSP:OPAQUE
@@ -528,44 +516,37 @@ UID:6ocs9t44n75ngegnq8qp8qr6h0@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T142953Z
-X-TEAMUP-WHO:Analisa Packham
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Analisa Packham (Vanderbilt)\n\n
-DTEND:20200629T133000Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200629T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Analisa Packham)
+DTSTAMP:20200425T190911Z
+DTEND:20200505T173000Z
+LAST-MODIFIED:20200330T211254Z
+DTSTART:20200505T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Patrick Kehoe: Title tba
 TRANSP:OPAQUE
 UID:TU698175288
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698175288
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T140157Z
-X-TEAMUP-WHO:Walter D'Lima
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Walter D'Lima (Old Dominion University)\n\n
-DTEND:20200427T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200427T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (Walter D'Lima)
-TRANSP:OPAQUE
-UID:TU698160308
-URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698160308
+DTSTART;VALUE=DATE:20200410
+DTEND;VALUE=DATE:20200411
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://www.colorado.edu/business/finance-cloud">https://www.colorado.edu/business/finance-cloud</a>
+LAST-MODIFIED:20200330T181448Z
+STATUS:CONFIRMED
+SUMMARY:Finance in the Cloud II
+TRANSP:TRANSPARENT
+UID:3tvc4n067sblin7qrqa2m7obhd@google.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20200410T190708Z
 SEQUENCE:0
-DTSTAMP:20200425T194540Z
-DESCRIPTION:<span>Held via Zoom.&nbsp\; More information and mailing list sign-up at: https://sites.google.com/view/vuwifi</span>
-DTEND:20200507T170000Z
-LAST-MODIFIED:20200410T190708Z
-DTSTART:20200507T160000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200421T173000Z
+LAST-MODIFIED:20200330T211226Z
+LOCATION:London\, UK
+DTSTART:20200421T160000Z
 STATUS:CONFIRMED
 SUMMARY:Anjan Thakor - Villanova WiFI Seminar
 TRANSP:OPAQUE
@@ -575,11 +556,11 @@ BEGIN:VEVENT
 RECURRENCE-ID;TZID=America/New_York:20200416T140000
 CREATED:20200403T161748Z
 SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200416T193000Z
-LAST-MODIFIED:20200403T161858Z
-DTSTART:20200416T180000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br>Paper: <a href="https://sites.google.com/site/kellyshue/files/GenderGapinHousingReturns.pdf?attredirects=0">https://sites.google.com/site/kellyshue/files/GenderGapinHousingReturns.pdf?attredirects=0</a><br><br>Website: https://sites.google.com/view/virtual-finance-seminar/home
+DTEND:20200407T180000Z
+LAST-MODIFIED:20200407T173841Z
+DTSTART:20200407T170000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: George Alessandria
 TRANSP:OPAQUE
@@ -589,11 +570,11 @@ BEGIN:VEVENT
 RECURRENCE-ID;TZID=America/New_York:20200423T140000
 CREATED:20200403T161748Z
 SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200423T193000Z
-LAST-MODIFIED:20200423T172808Z
-DTSTART:20200423T180000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\nhttps://sites.google.com/view/urban-econ-online\n\nContact econ.urban.envi.online@gmail.com to register for this seminar.
+DTEND:20200413T170000Z
+LAST-MODIFIED:20200407T174850Z
+DTSTART:20200413T160000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Costas Arkolakis (Yale)
 TRANSP:OPAQUE
@@ -602,12 +583,24 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200402T084320Z
 SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:The Ability to Self Isolate and Inequality: A Study of the Initial Stages of the spread of Covid-19 in the USA and the Role of the Internet
-DTEND:20200430T160000Z
-LAST-MODIFIED:20200415T161150Z
-DTSTART:20200430T150000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\n\nRichard A. Mayo Center for Asset Management\nSpeaker Series: The Economic and Financial Implications of COVID-19\n\nhttps://www.darden.virginia.edu/mayo-center/events/speaker-series-economic-financial-implications-covid-19\n Register here: https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101803996494 
+DTEND:20200417T180000Z
+LAST-MODIFIED:20200405T171935Z
+DTSTART:20200417T170000Z
+STATUS:CONFIRMED
+SUMMARY:The Economic and Financial Implications of COVID-19: Andrew Karolyi
+TRANSP:OPAQUE
+UID:52pif7u9vkbjsq5lo8s2kho52r@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200330T212705Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/ocis/
+DTEND:20200414T163000Z
+LAST-MODIFIED:20200330T212733Z
+DTSTART:20200414T153000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Catherine Tucker (MIT)
 TRANSP:OPAQUE
@@ -617,11 +610,12 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215740Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200522T174500Z
-LAST-MODIFIED:20200405T215754Z
-DTSTART:20200522T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Caltech Econ Theory\nhttps://twitter.com/CaltechEconThry
+DTEND:20200401T200000Z
+LAST-MODIFIED:20200330T232012Z
+LOCATION:https://www.twitch.tv/caltechecontheory
+DTSTART:20200401T190000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Laura Veldkamp
 TRANSP:OPAQUE
@@ -629,33 +623,26 @@ UID:7p7itorji7v2ab1br809af06cb@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T144035Z
-X-TEAMUP-WHO:Ieva Sriubaite
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenter: Ieva Sriubaite (Monash/CINCH)\n\n
-DTEND:20200706T133000Z
-LAST-MODIFIED:20200415T144041Z
-LOCATION:RWI Essen/E-Werk
-DTSTART:20200706T120000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Ieva Sriubaite)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://www.virtualfinance.org/">https://www.virtualfinance.org/</a><br><br><br><ul><li><p>Please register <a href="https://ucla.zoom.us/webinar/register/WN_WuzgzF1wSeKCPrv8CcCwDg">here</a> to attend the meeting on Zoom.</p></li></ul><h3><br><br><br><a href="https://www.virtualfinance.org/#h.cj4crqwg5pj6"></a></h3>
+DTEND:20200417T174500Z
+LAST-MODIFIED:20200406T190712Z
+DTSTART:20200417T163000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual finance: Ralph Koijen (Chicago Booth)
 TRANSP:OPAQUE
 UID:TU698181021
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698181021
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T144755Z
-X-TEAMUP-WHO:Nikolaos Prodromidis
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Nikolaos Prodromidis (University of Duisburg-Essen)\n\n
-DTEND:20200713T133000Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20200713T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Nikolaos Prodromidis)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\nRegister: https://edrubin.typeform.com/to/WpCbOW\nWebsite: https://gosee.io/index.html
+DTEND:20200422T160000Z
+LAST-MODIFIED:20200401T142337Z
+DTSTART:20200422T140000Z
+STATUS:CONFIRMED
+SUMMARY:GoSee: "What are Environmental and Resource Economists doing to inform solutions to COVID19?" 
 TRANSP:OPAQUE
 UID:TU698185158
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698185158
@@ -663,11 +650,10 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215834Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200605T174500Z
-LAST-MODIFIED:20200405T215834Z
-DTSTART:20200605T163000Z
+DTSTAMP:20200425T190911Z
+DTEND:20200603T153000Z
+LAST-MODIFIED:20200406T012332Z
+DTSTART:20200603T140000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: John Campbell
 TRANSP:OPAQUE
@@ -677,53 +663,67 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;BYDAY=TH
 CREATED:20200403T161748Z
 SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200416T193000Z
-LAST-MODIFIED:20200403T161836Z
-DTSTART:20200416T180000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Virtual Finance & Economics Conference 2020\nAgenda: https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e8f6843db73e253130e9983/1586456644271/virtual-conf-agenda.pdf\n\nhttps://nyu.zoom.us/j/95748570288\n\n\n\nRSVP: https://bit.ly/2JPh899
+DTEND:20200417T210000Z
+LAST-MODIFIED:20200416T234854Z
+DTSTART:20200417T140000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Finance & Economics Conference 2020
+TRANSP:TRANSPARENT
+UID:26pbi9bbosgh8agn81hi6pe3gh@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200529T065959Z;BYDAY=TH
+CREATED:20200330T214322Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:http://jenniferdoleac.com/online-economics-of-crime-seminar/
+DTEND:20200402T233000Z
+LAST-MODIFIED:20200330T214322Z
+DTSTART:20200402T223000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: TBD
 TRANSP:OPAQUE
 UID:44r9dqg1uqesr955sdvs03hj47@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200430T140000
-CREATED:20200403T161748Z
-SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200430T193000Z
-LAST-MODIFIED:20200403T161916Z
-DTSTART:20200430T180000Z
+CREATED:20200422T014836Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow857" __is_owner="true">"</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012277" id="ow853" __is_owner="true">Talent Discovery\, Layoff Risk\, and Unemployment Insurance"</a>
+DTEND:20200526T181500Z
+LAST-MODIFIED:20200422T014849Z
+LOCATION:https://sites.google.com/view/lfos\, 
+DTSTART:20200526T171500Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Elisa Giannone
 TRANSP:OPAQUE
 UID:44r9dqg1uqesr955sdvs03hj47@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200507T140000
-CREATED:20200403T161748Z
-SEQUENCE:1
-DTSTAMP:20200425T194541Z
-DESCRIPTION:More details can be found here:&nbsp\;<a href="https://www.tradedynamics.org/">https://www.tradedynamics.org/</a><br><br>Sign up for the Zoom link here:&nbsp\;<a href="https://forms.gle/RGsumGsdYtgajj2i7">https://forms.gle/RGsumGsdYtgajj2i7</a><br><br>Questions?&nbsp\;<a href="mailto:virtual.itm.seminar@gmail.com">virtual.itm.seminar@gmail.com</a>&nbsp\;&nbsp\;
-DTEND:20200507T193000Z
-LAST-MODIFIED:20200423T172851Z
-DTSTART:20200507T180000Z
+CREATED:20200403T135623Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
+DTEND:20200413T173000Z
+LAST-MODIFIED:20200403T135623Z
+DTSTART:20200413T163000Z
 STATUS:CONFIRMED
 SUMMARY:VITM Seminar: Brent Neiman (Booth) - Redrawing the Map on Global Capital Flows
 TRANSP:OPAQUE
 UID:44r9dqg1uqesr955sdvs03hj47@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200323T141027Z
-SEQUENCE:1
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200403T154500Z
-LAST-MODIFIED:20200330T160233Z
-LOCATION:https://georgetown.zoom.us/j/982163916
-DTSTART:20200403T143000Z
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR
+CREATED:20200407T175806Z
+SEQUENCE:0
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Website: https://www.rohitlamba.com/penntheon
+DTEND:20200410T190000Z
+LAST-MODIFIED:20200407T180201Z
+DTSTART:20200410T180000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Paola Giuliano 
 TRANSP:OPAQUE
@@ -731,120 +731,106 @@ UID:5fj3hggp6bbh892f0qvp2fh5fh@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T141657Z
-X-TEAMUP-WHO:Katharina Blankart
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Katharina Blankart (CINCH/University of Duisburg-Essen)\n\n
-DTEND:20200525T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200525T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (Katharina Blankart)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200507T173000Z
+LAST-MODIFIED:20200330T211303Z
+LOCATION:London\, UK
+DTSTART:20200507T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Michele Tertilt\, Titan Alon\, Matthias Doepke and Jane Olmstead-Rumsey: The Impact of COVID-19 on Gender Equality
 TRANSP:OPAQUE
 UID:TU698168271
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698168271
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150645Z
-X-TEAMUP-WHO:Maryna Ivets
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Maryna Ivets (University of Duisburg-Essen)\n\n
-DTEND:20191021T133000Z
-LAST-MODIFIED:20190917T151707Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20191021T120000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Maryna Ivets)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:"Human Capitalists"
+DTEND:20200512T181500Z
+LAST-MODIFIED:20200422T014849Z
+LOCATION:https://sites.google.com/view/lfos\, 
+DTSTART:20200512T171500Z
+STATUS:CONFIRMED
+SUMMARY:LFOS: Andrea Eisfeldt (UCLA)
 TRANSP:OPAQUE
 UID:TU460536926
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460536926
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200101T220811Z
-X-TEAMUP-WHO:Krystal Lau
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenter: Krsytal Lau (Imperial College)\n\n
-DTEND:20200113T143000Z
-LAST-MODIFIED:20200101T220827Z
-LOCATION:RWI Essen/E-Werk
-DTSTART:20200113T130000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Krystal Lau)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
+DTEND:20200415T153000Z
+LAST-MODIFIED:20200406T012701Z
+DTSTART:20200415T140000Z
+STATUS:CONFIRMED
+SUMMARY:John Van Reenen (MIT): TBA
 TRANSP:OPAQUE
 UID:TU563105651
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/563105651
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200323T141226Z
-SEQUENCE:1
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200417T161500Z
-LAST-MODIFIED:20200407T160206Z
-DTSTART:20200417T150000Z
+CREATED:20200403T135730Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
+DTEND:20200406T173000Z
+LAST-MODIFIED:20200403T135730Z
+DTSTART:20200406T163000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Jesse Shapiro
 TRANSP:OPAQUE
 UID:541n8rhlbcpc3qfl38i8cs6lej@google.com
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=WEEKLY;WKST=SU;COUNT=6;BYDAY=MO
-EXDATE;TZID=America/New_York:20200608T113000
-EXDATE;TZID=America/New_York:20200525T113000
-CREATED:20200413T183401Z
-SEQUENCE:2
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200511T163000Z
-LAST-MODIFIED:20200413T183447Z
-DTSTART:20200511T153000Z
+CREATED:20200330T184747Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200331T173000Z
+LAST-MODIFIED:20200330T211122Z
+LOCATION:London\, Vereinigtes Königreich
+DTSTART:20200331T160000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS 
 TRANSP:OPAQUE
 UID:a0ff4bhmsagfb81bmap9qlu621@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200511T113000
-CREATED:20200413T183401Z
-SEQUENCE:2
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200511T163000Z
-LAST-MODIFIED:20200416T195415Z
-DTSTART:20200511T153000Z
+CREATED:20200406T190504Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DTEND:20200408T174500Z
+LAST-MODIFIED:20200406T190504Z
+DTSTART:20200408T163000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Yufeng Huang 
 TRANSP:OPAQUE
 UID:a0ff4bhmsagfb81bmap9qlu621@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200518T113000
-CREATED:20200413T183401Z
-SEQUENCE:2
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200518T163000Z
-LAST-MODIFIED:20200416T202639Z
-DTSTART:20200518T153000Z
+CREATED:20200330T211720Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/ocis/
+DTEND:20200407T163000Z
+LAST-MODIFIED:20200330T211720Z
+DTSTART:20200407T153000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Adam Smith 
 TRANSP:OPAQUE
 UID:a0ff4bhmsagfb81bmap9qlu621@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200615T113000
-CREATED:20200413T183401Z
-SEQUENCE:2
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200615T163000Z
-LAST-MODIFIED:20200417T134435Z
-DTSTART:20200615T153000Z
+CREATED:20200330T184836Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200416T173000Z
+LAST-MODIFIED:20200330T211211Z
+LOCATION:London\, UK
+DTSTART:20200416T160000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS - Gregory J. Martin
 TRANSP:OPAQUE
@@ -854,11 +840,12 @@ BEGIN:VEVENT
 RECURRENCE-ID;TZID=America/New_York:20200601T113000
 CREATED:20200413T183401Z
 SEQUENCE:2
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200601T163000Z
-LAST-MODIFIED:20200420T231002Z
-DTSTART:20200601T153000Z
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:\n\nRichard A. Mayo Center for Asset Management\n\nSpeaker Series: The Economic and Financial Implications of COVID-19\nMaureen O'Hara\n\nhttps://www.darden.virginia.edu/mayo-center/events/speaker-series-economic-financial-implications-covid-19\n\nRegister here: 
+DTEND:20200424T180000Z
+LAST-MODIFIED:20200405T172203Z
+DTSTART:20200424T170000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Paulo Albuquerque
 TRANSP:OPAQUE
@@ -867,11 +854,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215905Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200612T174500Z
-LAST-MODIFIED:20200405T215905Z
-DTSTART:20200612T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://research.reading.ac.uk/economics/reading-online-sport-economics-seminars-roses/
+DTEND:20200403T180000Z
+LAST-MODIFIED:20200330T185654Z
+DTSTART:20200403T163000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Wei Xiong
 TRANSP:OPAQUE
@@ -879,17 +866,13 @@ UID:1gptsqr0ld82iugn2kvt51nhbh@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150747Z
-X-TEAMUP-WHO:Christoph Kronenberg
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Christoph Kronenberg (CINCH)\n\n
-DTEND:20191111T143000Z
-LAST-MODIFIED:20190917T152017Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20191111T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Christoph Kronenberg)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200423T173000Z
+LAST-MODIFIED:20200330T211232Z
+DTSTART:20200423T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Alessandro Rebucci: Title tba
 TRANSP:OPAQUE
 UID:TU460537760
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460537760
@@ -897,12 +880,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200422T004624Z
 SEQUENCE:0
-DTSTAMP:20200425T194539Z
-DESCRIPTION:"<a href="https://www.kellogg.northwestern.edu/faculty/zator/DigitAutom.pdf">Digitization and Automation: Firm Investment and Labor Outcomes</a>"&nbsp\;
-DTEND:20200623T181500Z
-LAST-MODIFIED:20200422T004624Z
-LOCATION:https://sites.google.com/view/lfos\, 
-DTSTART:20200623T171500Z
+DTSTAMP:20200425T190911Z
+DTEND:20200414T173000Z
+LAST-MODIFIED:20200330T211158Z
+LOCATION:London
+DTSTART:20200414T160000Z
 STATUS:CONFIRMED
 SUMMARY:LFOS: Michal Zator (Notre Dame)
 TRANSP:OPAQUE
@@ -911,11 +893,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200408T171331Z
 SEQUENCE:0
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing" id="ow742" __is_owner="true">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086" id="ow746" __is_owner="true">https://mit.zoom.us/j/709378086</a>
-DTEND:20200420T163000Z
-LAST-MODIFIED:20200408T235721Z
-DTSTART:20200420T153000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<p><span>Stefan Pichler</span>\, <span>Katherine Wen</span>\, and <span>Nicolas Robert Ziebarth</span>: <span><a href="https://www.researchgate.net/publication/336832189_Positive_Health_Externalities_of_Mandating_Paid_Sick_Leave" target="_blank"><em>Positive Health Externalities of Mandating Paid Sick Leave</em></a><br></span></p><p><span>Stefan Pichler and Nicolas Robert Ziebarth: </span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em>The pros and</em></a></span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em> </em></a></span><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272717301056" target="_blank"><em>cons of sick pay schemes: Testing for contagious presenteeism and noncontagious absenteeism behavior</em></a></span></p>
+DTEND:20200417T190000Z
+LAST-MODIFIED:20200330T185351Z
+DTSTART:20200417T180000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Matthew Osborne
 TRANSP:OPAQUE
@@ -923,30 +905,38 @@ UID:3genk7f479j7gmg8dqs07nmfkd@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T151036Z
-X-TEAMUP-WHO:Mujaheed Shaikh
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Mujaheed Shaikh (Hertie School)\n\n
-DTEND:20191209T143000Z
-LAST-MODIFIED:20190917T152208Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20191209T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Mujaheed Shaikh)
+DTSTART;VALUE=DATE:20200424
+DTEND;VALUE=DATE:20200425
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://www.colorado.edu/business/finance-cloud">https://www.colorado.edu/business/finance-cloud</a>
+LAST-MODIFIED:20200330T181530Z
+STATUS:CONFIRMED
+SUMMARY:Finance in the Cloud III
+TRANSP:TRANSPARENT
+UID:2huvm9a1pmvhehsgunj9996t9u@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200330T185333Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<p><span>Martin S. Eichenbaum\,<span><span> Sergio Rebelo\, and</span> <span>Mathias Traband</span><span>t</span></span> -- </span><i><a href="https://www.nber.org/papers/w26882" target="_blank"><span>The Macroeconomics of Epidemics</span></a></i><span><br></span></p><p><span>David Berger\, Kyle Herkenhoff\, and Simon Mongey: </span><a href="http://www.simonmongey.com/uploads/6/5/6/6/65665741/bhm_corona_v4.pdf" target="_blank"><span>An SEIR Infectious Disease Model with Testing and Conditional Quarantine</span></a></p><p><span></span></p>
+DTEND:20200406T181500Z
+LAST-MODIFIED:20200330T185333Z
+DTSTART:20200406T170000Z
+STATUS:CONFIRMED
+SUMMARY:HELP Webinar: Sergio Rebelo and Simon Mongey
 TRANSP:OPAQUE
 UID:TU460541369
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460541369
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200415T160746Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:"Merger Policy in Digital Markets" with Luis Cabral\, Fiona Scott-Morton\, and Tommaso Valletti
-DTEND:20200514T163000Z
-LAST-MODIFIED:20200415T160911Z
-DTSTART:20200514T150000Z
+CREATED:20200330T182213Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200417
+DTEND;VALUE=DATE:20200418
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e753140c2225859fa93ba1e/1584738624656/callforpapers.pdf">https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e753140c2225859fa93ba1e/1584738624656/callforpapers.pdf</a>
+LAST-MODIFIED:20200330T182213Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar Special Session
 TRANSP:OPAQUE
@@ -956,38 +946,40 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200407T191942Z
 SEQUENCE:0
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar<br><a href="https://sites.google.com/view/vquantmarketing" id="ow494" __is_owner="true">https://sites.google.com/view/vquantmarketing</a><br><br><br>Zoom link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a><br><br>Please register here:<br><a href="https://forms.gle/6gf85wjqPf8hEy539">https://forms.gle/6gf85wjqPf8hEy539</a>
-DTEND:20200409T163000Z
-LAST-MODIFIED:20200408T235700Z
-DTSTART:20200409T153000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:"<a href="https://www.kellogg.northwestern.edu/faculty/zator/DigitAutom.pdf">Digitization and Automation: Firm Investment and Labor Outcomes</a>"&nbsp\;
+DTEND:20200623T181500Z
+LAST-MODIFIED:20200422T014849Z
+LOCATION:https://sites.google.com/view/lfos\, 
+DTSTART:20200623T171500Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Eva Ascarza
 TRANSP:OPAQUE
 UID:17hgr77p0do9ehsjgaq510p751@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200326T135737Z
-SEQUENCE:2
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200515T161500Z
-LAST-MODIFIED:20200407T160237Z
-DTSTART:20200515T150000Z
+RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=WE
+CREATED:20200408T224046Z
+SEQUENCE:0
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Website: https://michaldzielinski.com/futfininfo/webinar-series/
+DTEND:20200422T150000Z
+LAST-MODIFIED:20200408T224058Z
+DTSTART:20200422T140000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar: Alessandro Lizzeri 
 TRANSP:TRANSPARENT
 UID:4vufro0svo1ehc2gpljaniprkk@google.com
 END:VEVENT
 BEGIN:VEVENT
-RECURRENCE-ID;TZID=America/New_York:20200504T113000
-CREATED:20200413T183401Z
-SEQUENCE:1
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200504T163000Z
-LAST-MODIFIED:20200416T195352Z
-DTSTART:20200504T153000Z
+CREATED:20200406T012102Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
+DTEND:20200429T153000Z
+LAST-MODIFIED:20200406T012737Z
+DTSTART:20200429T140000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS: Yiting Deng 
 TRANSP:OPAQUE
@@ -997,25 +989,24 @@ BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;UNTIL=20200511T035959Z;BYDAY=MO
 CREATED:20200413T183401Z
 SEQUENCE:1
-DTSTAMP:20200425T194540Z
-DESCRIPTION:Virtual Quantitative Marketing Seminar:&nbsp\;<br><a href="https://sites.google.com/view/vquantmarketing">https://sites.google.com/view/vquantmarketing</a><br><br>Zoom Link:<br><a href="https://mit.zoom.us/j/709378086">https://mit.zoom.us/j/709378086</a>
-DTEND:20200504T163000Z
-LAST-MODIFIED:20200413T183447Z
-DTSTART:20200504T153000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://bcf.princeton.edu/event-directory/covid19/
+DTEND:20200410T173000Z
+LAST-MODIFIED:20200403T135748Z
+DTSTART:20200410T163000Z
 STATUS:CONFIRMED
 SUMMARY:VQMS 
 TRANSP:OPAQUE
 UID:1a77dveg70rvno00m1nifna6qp@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200415T161026Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200618T160000Z
-LAST-MODIFIED:20200415T161047Z
-DTSTART:20200618T150000Z
+CREATED:20200330T190829Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br><a href="https://www.workshop-efi.com/schedule/monday-may-4th-xavier-jaravel" id="ow593" __is_owner="true">https://www.workshop-efi.com/schedule/monday-may-4th-xavier-jaravel</a><br><a href="https://www.workshop-efi.com/" id="ow589" __is_owner="true">https://www.workshop-efi.com/</a>
+DTEND:20200504T170000Z
+LAST-MODIFIED:20200422T162540Z
+DTSTART:20200504T160000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Anja Lambrecht (London Business School)
 TRANSP:OPAQUE
@@ -1025,11 +1016,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215711Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200515T174500Z
-LAST-MODIFIED:20200416T183014Z
-DTSTART:20200515T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<span><br><span>Description:</span><a href="https://sites.google.com/view/ocis/">https://sites.google.com/view/ocis/</a></span>
+DTEND:20200331T163000Z
+LAST-MODIFIED:20200330T232013Z
+DTSTART:20200331T153000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Annette Vissing-Jorgensen
 TRANSP:OPAQUE
@@ -1037,17 +1028,15 @@ UID:73i4n09n4jud3iagn0nvj0202e@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150958Z
-X-TEAMUP-WHO:Rob Pryce
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Rob Pryce (University of Sheffield)\n\n
-DTEND:20191202T143000Z
-LAST-MODIFIED:20191014T204634Z
-LOCATION:CINCH Essen/ WST-C.02.12
-DTSTART:20191202T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Rob Pryce)
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<p>Speaker: <a href="https://faculty.chicagobooth.edu/constantine.yannelis/index.html">Constantine Yannelis</a> (Chicago Booth)</p>Discussant: <a href="http://arpitgupta.info/">Arpit Gupta</a> (NYU Stern)
+DTEND:20200428T160000Z
+LAST-MODIFIED:20200422T015006Z
+LOCATION:Zoom
+DTSTART:20200428T150000Z
+STATUS:CONFIRMED
+SUMMARY:Seminar: "How Does Household Spending Respond to an Epidemic? Consumption During the 2020 COVID-19 Pandemic"
 TRANSP:OPAQUE
 UID:TU460541070
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460541070
@@ -1055,25 +1044,25 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215647Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200501T174500Z
-LAST-MODIFIED:20200405T215648Z
-DTSTART:20200501T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Site: https://www.jku.at/en/department-of-economics/research/research-events/online-economics-research-seminar/#
+DTEND:20200603T150000Z
+LAST-MODIFIED:20200403T140630Z
+DTSTART:20200603T140000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Arvind Krishnamurthy
 TRANSP:OPAQUE
 UID:0gr7arclcgns53p32v48699n2c@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200402T143112Z
-SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200507T160000Z
-LAST-MODIFIED:20200415T161139Z
-DTSTART:20200507T150000Z
+CREATED:20200330T184756Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200402T173000Z
+LAST-MODIFIED:20200330T214027Z
+LOCATION:London\, Vereinigtes Königreich
+DTSTART:20200402T160000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Anindya Ghose (NYU)
 TRANSP:OPAQUE
@@ -1082,45 +1071,37 @@ URL:https://www.digitalecon.org/seminar
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T142112Z
-X-TEAMUP-WHO:David Smith
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: David Smith (Cass Business School)\n\n
-DTEND:20200608T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200608T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (David Smith)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
+DTEND:20200422T153000Z
+LAST-MODIFIED:20200406T012748Z
+DTSTART:20200422T140000Z
+STATUS:CONFIRMED
+SUMMARY:Alessandro Gavazza (LSE):TBA
 TRANSP:OPAQUE
 UID:TU698169631
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698169631
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T151054Z
-X-TEAMUP-WHO:Stefan Pichler
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Stefan Pichler (ETH Zurich)\n\n
-DTEND:20191216T143000Z
-LAST-MODIFIED:20190917T152437Z
-LOCATION:CINCH Essen/WST-C.02.12
-DTSTART:20191216T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Stefan Pichler)
-TRANSP:OPAQUE
-UID:TU460541466
-URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460541466
+DTSTART;VALUE=DATE:20200403
+DTEND;VALUE=DATE:20200404
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br><b><a href="https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101541996846" id="ow2113" __is_owner="true">Registration</a></b><b><br><b><br></b>Speaker: Campbell Harvey\,&nbsp\;</b>Partner and Senior Advisor\, Research Affiliates\, Professor of Finance\, Fuqua School of Business at Duke University<br><br><b>Topic: The Economic and Financial Implications of COVID-19</b><br><br>Professor Harvey will provide an update and outlook for the global economy and financial markets as the current crisis unfolds. Topics he will discuss include:<br><br>Potential path for COVID-19<br><br>How severe is the coming economic contraction?<br><br>Putting the U.S. fiscal aid package into context<br><br>The response from monetary policymakers<br><br>Are financial markets facing a liquidity trap?<br><br>Where do we go from here?<br><br><b>Moderator: Pedro Matos\,</b>&nbsp\;John G. Macfarlane Family Chair and Professor of Business Administration\, Academic Director of Richard A. Mayo Center for Asset Management<br><br>There will be a Q&amp\;A session following the prepared remarks.<br><br>- - - - -<br><br><i>The purpose of this virtual seminar series is two-fold:</i><br><br><i>1. Given the unprecedented nature of the current situation\, we believe that academic insights can offer tremendous value. The seminar series will bring top academic research and its relevance to a broader public forum\; and</i><br><br><i>2. This virtual seminar series will provide a venue for continued sharing of academic ideas of practical relevance in a time when travel to conferences and seminars has been significantly impacted.</i><br><br><i>Hosted on Zoom\, each seminar will consist of 30 minutes of presentation by a speaker followed by 30 minutes of moderated Q&amp\;A.</i>
+LAST-MODIFIED:20200330T180948Z
+STATUS:CONFIRMED
+SUMMARY:The Economic and Financial Implications of COVID-19
+TRANSP:TRANSPARENT
+UID:2ikf8u8g1mkd8ukm8grq813kpq@google.com
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20200405T215811Z
 SEQUENCE:0
-DTSTAMP:20200425T194538Z
-DESCRIPTION:More information at www.virtualfinance.org.
-DTEND:20200529T174500Z
-LAST-MODIFIED:20200405T215811Z
-DTSTART:20200529T163000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<br><a href="https://www.fma.org/virtual-seminar">https://www.fma.org/virtual-seminar</a><br><br><span><br><b><a href="https://www.eventbrite.com/e/uva-darden-virtual-speaker-series-tickets-101541996846">Registration</a></b><b><br><b><br></b>Speaker: Campbell Harvey\,&nbsp\;</b>Partner and Senior Advisor\, Research Affiliates\, Professor of Finance\, Fuqua School of Business at Duke University<br><br><b>Topic: The Economic and Financial Implications of COVID-19</b><br><br>Professor Harvey will provide an update and outlook for the global economy and financial markets as the current crisis unfolds. Topics he will discuss include:<br><br>Potential path for COVID-19<br><br>How severe is the coming economic contraction?<br><br>Putting the U.S. fiscal aid package into context<br><br>The response from monetary policymakers<br><br>Are financial markets facing a liquidity trap?<br><br>Where do we go from here?<br><br><b>Moderator: Pedro Matos\,</b>&nbsp\;John G. Macfarlane Family Chair and Professor of Business Administration\, Academic Director of Richard A. Mayo Center for Asset Management<br><br>There will be a Q&amp\;A session following the prepared remarks.<br><br>- - - - -<br><br><i>The purpose of this virtual seminar series is two-fold:</i><br><br><i>1. Given the unprecedented nature of the current situation\, we believe that academic insights can offer tremendous value. The seminar series will bring top academic research and its relevance to a broader public forum\; and</i><br><br><i>2. This virtual seminar series will provide a venue for continued sharing of academic ideas of practical relevance in a time when travel to conferences and seminars has been significantly impacted.</i><br><br><i>Hosted on Zoom\, each seminar will consist of 30 minutes of presentation by a speaker followed by 30 minutes of moderated Q&amp\;A.</i></span>
+DTEND:20200403T180000Z
+LAST-MODIFIED:20200330T220045Z
+DTSTART:20200403T170000Z
 STATUS:CONFIRMED
 SUMMARY:Virtual Finance Workshop: Lars Peter Hansen
 TRANSP:OPAQUE
@@ -1129,12 +1110,11 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20200415T160937Z
 SEQUENCE:1
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-DTSTAMP:20200425T194538Z
-DESCRIPTION:TBA
-DTEND:20200521T160000Z
-LAST-MODIFIED:20200415T161018Z
-DTSTART:20200521T150000Z
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/cmichaudleclerc/geez-seminars
+DTEND:20200421T170000Z
+LAST-MODIFIED:20200422T124811Z
+DTSTART:20200421T160000Z
 STATUS:CONFIRMED
 SUMMARY:VIDE Seminar: Dina Mayzlin (University of Southern California)
 TRANSP:OPAQUE
@@ -1143,45 +1123,53 @@ URL:https://www.digitalecon.org/seminar
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T140311Z
-X-TEAMUP-WHO:Noemi Kreif
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Noemi Kreif (University of York)\n\n
-DTEND:20200504T153000Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200504T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (Noemi Kreif)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Website: http://virtual-md-seminar.com/
+DTEND:20200409T150000Z
+LAST-MODIFIED:20200407T180146Z
+DTSTART:20200409T140000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Market Design Seminar
 TRANSP:OPAQUE
 UID:TU698160905
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698160905
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20200415T135005Z
-X-TEAMUP-WHO:Daniel Kühnle
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Virtual Essen Health Economics Seminar\n\nPresenter: Daniel Kühnle (University of Duisburg-Essen)\n\n
-DTEND:20200420T153000Z
-LAST-MODIFIED:20200415T135512Z
-LOCATION:Virtual Seminar Room
-DTSTART:20200420T140000Z
-SUMMARY:Virtual Essen Health Economics Seminar Series (Daniel Kühnle)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<a href="https://sites.google.com/view/virtualmacro/">https://sites.google.com/view/virtualmacro/</a>
+DTEND:20200428T173000Z
+LAST-MODIFIED:20200330T211240Z
+LOCATION:London
+DTSTART:20200428T160000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Macro: Joe Vavra: Title tba
 TRANSP:OPAQUE
 UID:TU698154355
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/698154355
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200325T201326Z
-SEQUENCE:1
-ATTENDEE;X-NUM-GUESTS=0;CN=DCPEC Webinar Series;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:bak1g7v2quspqer2ubp6tefs9c@group.calendar.google.com
-DTSTAMP:20200425T194539Z
-DTEND:20200508T161500Z
-LAST-MODIFIED:20200421T135213Z
-DTSTART:20200508T150000Z
+RRULE:FREQ=WEEKLY;BYDAY=TU
+CREATED:20200414T163728Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<span>https://twitter.com/CMichaudLeclerc/status/1248254956186079232?s=20</span>
+DTEND:20200421T163000Z
+LAST-MODIFIED:20200414T163728Z
+DTSTART:20200421T160000Z
+STATUS:CONFIRMED
+SUMMARY:Graduate Students in Economics of Education
+TRANSP:OPAQUE
+UID:7ouklkleg4csjon3sdj937d01t@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200330T185734Z
+SEQUENCE:0
+DTSTAMP:20200425T190911Z
+DESCRIPTION:https://sites.google.com/view/virtual-io-seminar/
+DTEND:20200408T153000Z
+LAST-MODIFIED:20200330T185734Z
+DTSTART:20200408T140000Z
 STATUS:CONFIRMED
 SUMMARY:DCPEC Webinar:  Ethan Bueno de Mesquita  
 TRANSP:OPAQUE
@@ -1189,34 +1177,27 @@ UID:45t0jonvl26s4ukko5ij2sbhns@google.com
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T150728Z
-X-TEAMUP-WHO:Hans Sievertsen
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ CINCH Essen\n\nPresenter: Hans Sievertsen (University of Bristol)\n\n
-DTEND:20191104T143000Z
-LAST-MODIFIED:20191014T204559Z
-LOCATION:CINCH Essen/ WST-C.02.12
-DTSTART:20191104T130000Z
-SUMMARY:Essen Health Economics Seminar @ CINCH Essen (Hans Sievertsen)
+ATTENDEE;X-NUM-GUESTS=0;CN=Virtual econ/finance seminars;CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:4p7jc9qc9igeb83pmkpjgi80fg@group.calendar.google.com
+DTSTAMP:20200425T190911Z
+DESCRIPTION:Website: https://sites.google.com/view/virtual-finance-seminar/home
+DTEND:20200414T180000Z
+LAST-MODIFIED:20200407T174214Z
+DTSTART:20200414T170000Z
+STATUS:CONFIRMED
+SUMMARY:Virtual Finance Seminar
 TRANSP:OPAQUE
 UID:TU460537451
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460537451
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-CREATED:20190917T151123Z
-X-TEAMUP-WHO:Claudia Fink
-CATEGORIES:Essen Health Economics Seminar
-CLASS:PUBLIC
-DTSTAMP:20200415T150551Z
-DESCRIPTION:Essen Health Economics Seminar @ RWI Essen\n\nPresenter: Claudia Fink (CINCH/Eli Lilly)\n\n
-DTEND:20200127T143000Z
-LAST-MODIFIED:20190917T151604Z
-LOCATION:RWI Essen/E-Werk
-DTSTART:20200127T130000Z
-SUMMARY:Essen Health Economics Seminar @ RWI Essen (Claudia Fink)
+DTSTAMP:20200425T190911Z
+DESCRIPTION:<b>Thursday\, May 14\, 2020 - Phil Strahan\, Boston College</b> - <a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1aMOkpY95wWR-oZdNyEwwGaifAbJjp-sm&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436853389&amp\;sdata=LHchUacEA%2FsuprbOVBOV4YQ%2FYhRVS9rVnzoqMzMCSAY%3D&amp\;reserved=0"><i>Bank Stress Testing: Public Interest or Regulatory Capture?</i></a><i></i> (with Thomas Ian Schneider and Jun Yang)<br><br><br>If you are interested in these webinars\, <b>please visit the WiFI web site at: &nbsp\;<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fview%2Fvuwifi&amp\;data=02%7C01%7Cjohn.sedunov%40villanova.edu%7Cc9f72976593b4f0bf84608d7e15b0a96%7C765a8de5cf9444f09cafae5bf8cfa366%7C0%7C0%7C637225653436863380&amp\;sdata=eO6Mc5Bk4pdBvPKXSiBixpyxCAs9d68wOqwJJnE8uTU%3D&amp\;reserved=0">https://sites.google.com/view/vuwifi</a> &nbsp\;or <a href="https://docs.google.com/forms/d/1g1D3Bu_obCOMwSByfM5CLr6ZkmMyCs9rA-MYpVeZbMo">click here to directly register for future Zoom invitations</a></b>. We will send Zoom links to subscribers’ email addresses several days prior to the seminars.
+DTEND:20200514T180000Z
+LAST-MODIFIED:20200415T191759Z
+DTSTART:20200514T170000Z
+STATUS:CONFIRMED
+SUMMARY:Villanova Webinars in Financial Intermediation (WiFI)
 TRANSP:OPAQUE
 UID:TU460541721
 URL:https://teamup.com/ksxmy3qtypimzzr9j6/events/460541721
