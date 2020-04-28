@@ -362,12 +362,16 @@ The Virtual-monthly Mental health Economies Seminar Series is a virtual seminar 
 
 ### The Economics of Migration
 
-We are glad to inform you that a new on-line seminar (Zoom webinars) series on The Economics of Migration will be launched next week. This is a joint initiative of CERDI, PSE, LISER, the University of Luxembourg, Universidad Carlos III and the IC Migrations, and its objective is to propose an opportunity to migration scholars for exchanging under the current exceptional circumstances.
+A new online twin-webinar series on The Economics of Migration divided into a Junior and a Senior segment. 
 
-Seminars will be weekly, and held on Wednesdays from 5.30 to 6.30 pm CET.
+This is a joint initiative of CERDI, PSE, LISER, the University of Luxembourg, Universidad Carlos III, CEPII, the IC Migrations and the Development Research Group of the World Bank. Its objective is to propose an opportunity to migration scholars for exchanging and interacting with a broader audience.
+
+Senior seminars will be weekly, and held on Wednesdays from 5.30 to 6.30 pm CET.
+
+Junior seminars will be bi-weekly, and held on Mondays from 4.00 to 5.00 pm CET. 
 
 - [Mailing list](mailto:simone.bertoli@uca.fr)
-- [Website](https://cerdi.uca.fr/webinar-series-on-the-economics-of-migration/#/admin)
+- [Website](https://sites.google.com/view/the-economics-of-migration)
 
 ### Graduate Students in Economics of Education Zoom (GEEZ)
 
