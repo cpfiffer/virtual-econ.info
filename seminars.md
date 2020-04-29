@@ -414,3 +414,25 @@ Building on the success of the [MoFiR Workshop on Banking](https://www.google.co
 - [Website](https://sites.google.com/view/mofirseminars/home)
 - [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLScAF7pS1ksQFEBV4L1Y9fEZ4pZT44VCXXmfgoBygLfn53ACuw/viewform?usp=sf_link)
 - [Calendar](https://calendar.google.com/calendar/ical/69l82be6c1q5c9vntqvmatentg%40group.calendar.google.com/private-d8a01ca0a7e25bf79e0efc94167ae890/basic.ics)
+
+### Virtual Behavioral Economics Seminar (VIBE)
+
+An international behavioral and experimental economics online seminar open to everybody organized by [Aniol Llorente-Saguer](https://sites.google.com/site/aniollls/) (Queen Mary University London) and [Salvatore Nunnari](http://www.salvatorenunnari.eu/) (Bocconi University).
+
+- [Website](https://sites.google.com/view/vibesecon/)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=vibesecon%40gmail.com&ctz=America%2FLos_Angeles)
+
+### Empirical Trade Online Seminar
+
+FREIT and Georgia Insitute of Technology are hosting a new online only seminar series forum for international trade economists conducted via Zoom. The seminar will take place every Wednesday while COVID-19 pandemic lasts or until interest or energy disappear.
+
+If you are interested in presenting please email us at [etos@freit.org](mailto:etos@freit.org).
+
+- [Website](https://www.freit.org/ETOS/)
+
+### Applied Young Economist Webinar
+
+The Applied Young Economist Webinar, organized by [Ashani Amarasinghe](https://ashaniamarasinghe.github.io/) (SoDa Laboratories, Monash Business School) and co-hosted by [Ivan Yotzov](https://warwick.ac.uk/fac/soc/economics/staff/iyotzov) (Warwick University), provides an ideal platform for PhD candidates and Post-Doctoral researchers to connect, interact and engage with each other, while sharing their enthusiasm for the discipline of Economics.
+
+- [Website](https://www.monash.edu/business/soda-labs/events)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=monash.edu_nrsqjtfkupfspfn8o4qq8tv43k%40group.calendar.google.com&ctz=America%2FLos_Angeles)
