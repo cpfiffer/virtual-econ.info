@@ -126,6 +126,7 @@ This seminar is not open to the public but all researchers (including PhD studen
 - [Website](http://jenniferdoleac.com/online-economics-of-crime-seminar/)
 - [Seminar schedule](http://jenniferdoleac.com/wp-content/uploads/2020/03/EconOfCrimeSeminar.pdf)
 
+
 ### Financial Management Association / Richard A. Mayo Center for Asset Management Virtual Seminar
 
 The Coronavirus has caused uncertainty and volatility across global capital markets. To provide a forum for discussion of the potential impact and outlook for the economy and markets during this unprecedented time, the Mayo Center for Asset Management at the University of Virginia Darden School of Business and the Financial Management Association International will be hosting a virtual academic and practitioner seminar series on Fridays this April from 1:00-2:00 PM ET.
@@ -372,6 +373,8 @@ Junior seminars will be bi-weekly, and held on Mondays from 4.00 to 5.00 pm CET.
 
 - [Mailing list](mailto:simone.bertoli@uca.fr)
 - [Website](https://sites.google.com/view/the-economics-of-migration)
+- [Junior calendar](https://calendar.google.com/calendar/embed?src=s7di2tbmusjsme0c6a5dbmcm7g%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+- [Senior calendar](https://calendar.google.com/calendar/embed?src=f9gg2j11594l630rli7jc9ci78%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ### Graduate Students in Economics of Education Zoom (GEEZ)
 
