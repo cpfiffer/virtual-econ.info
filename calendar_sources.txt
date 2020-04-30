@@ -19,3 +19,6 @@ https://calendar.google.com/calendar/ical/s7di2tbmusjsme0c6a5dbmcm7g%40group.cal
 
 # Senior Economics of Migration Seminar
 https://calendar.google.com/calendar/ical/f9gg2j11594l630rli7jc9ci78%40group.calendar.google.com/public/basic.ics
+
+# Empirical Online Trade
+https://calendar.google.com/calendar/ical/enr5h00q4phjqisrbn85duccnk%40group.calendar.google.com/public/basic.ics

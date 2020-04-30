@@ -431,6 +431,7 @@ FREIT and Georgia Insitute of Technology are hosting a new online only seminar s
 
 If you are interested in presenting please email us at [etos@freit.org](mailto:etos@freit.org).
 
+- [Google calendar](https://calendar.google.com/calendar/embed?src=enr5h00q4phjqisrbn85duccnk%40group.calendar.google.com&ctz=America%2FNew_York)
 - [Website](https://www.freit.org/ETOS/)
 
 ### Applied Young Economist Webinar
