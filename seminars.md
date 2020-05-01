@@ -440,3 +440,12 @@ The Applied Young Economist Webinar, organized by [Ashani Amarasinghe](https://a
 
 - [Website](https://www.monash.edu/business/soda-labs/events)
 - [Google calendar](https://calendar.google.com/calendar/embed?src=monash.edu_nrsqjtfkupfspfn8o4qq8tv43k%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+### Virtual AFE Seminar Series
+
+This virtual seminar series is organized jointly by John List, Kenneth C. Griffin Department of Economics, University of Chicago and Robert Metcalfe, Boston University Questrom School of Business, and serves as a complement to the annual AFE Conference.
+
+The virtual seminar meets weekly via Zoom on Wednesdays at 12pm Eastern/11am Central. Seminars will consist of a 45 minute research paper presentation followed by 15 minutes of Q&A. For questions, please contact Jamie Temmer (Phillips). 
+
+- [Website](https://economics.uchicago.edu/content/afe-seminar-series)
+- [Registration](https://forms.gle/syuz6Qsem8JLE8u79)
