@@ -449,3 +449,21 @@ The virtual seminar meets weekly via Zoom on Wednesdays at 12pm Eastern/11am Cen
 
 - [Website](https://economics.uchicago.edu/content/afe-seminar-series)
 - [Registration](https://forms.gle/syuz6Qsem8JLE8u79)
+
+
+### International Online Public Finance Seminar Series
+
+A weekly, virtual workshop featuring research in public finance with a focus on taxes. Papers will be both invited and solicited with a call for papers.
+
+We will meet every Thursday @11am EST.
+
+- [Website](https://sites.google.com/view/pfonlineseminar/home)
+- [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfKjMQ7we3XeheUhVXYVNHlbiLwSdI32A7zZTbCUR8hLm59vA/viewform)
+
+### Virtual Seminars in Economic Theory
+
+The Virtual Seminars in Economic Theory provides a platform for scholars to present their unpublished work to a broad academic audience in the UK and abroad. It is organised by the team behind the UK [Workshop in Economic Theory[](https://sites.google.com/view/wecth/home), which has taken place annually since 2013.
+
+- [Website](https://sites.google.com/view/vset)
+- [Mailing list](https://forms.gle/tsecCsjXiGcrdAHi8)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=ht917em01j5o4hmr47p5pj7llk%40group.calendar.google.com&ctz=America%2FLos_Angeles)
