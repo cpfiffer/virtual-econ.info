@@ -61,6 +61,14 @@ Email [cfmp@georgetown.edu](mailto:cfmp@georgetown.edu) to be added to the Zoom 
 
 Sign up for this conference [here](https://www.workshop-efi.com/signup-form).
 
+### EPFL Virtual Innovation Seminar
+
+[EVIS](https://sites.google.com/view/epflvis/) is a bi-weekly seminar series focusing on Science, Technology and Innovation topics, studied through the lens of Economics, Entrepreneurship, and Strategy. It is targeted at graduate students and early-career researchers.
+
+If you are interested in presenting your work, please [apply](https://sites.google.com/view/epflvis/call-for-papers?authuser=0). Applications will be reviewed on a rolling basis until all the slots are full. 
+
+Sign up for this conference [here](https://docs.google.com/forms/d/e/1FAIpQLSfyNZO-zCPHnkkmkh1tI-gSXf4NHYOefVpca7c96cnfyW90mQ/viewform?usp=sf_link). You can reach us at [evis@epfl.ch](mailto:evis@epfl.ch) for questions.
+
 ### Virtual Macro Seminar
 
 A regular open online international and inter-institutional macroeconomics seminar. To stay up to date about upcoming presentations please join their mailing list by emailing [economics-virtualmacro-join@ucl.ac.uk](mailto:economics-virtualmacro-join@ucl.ac.uk) or by visiting [their website](https://sites.google.com/view/virtualmacro/).
