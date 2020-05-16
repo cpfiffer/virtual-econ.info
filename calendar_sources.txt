@@ -25,3 +25,6 @@ https://calendar.google.com/calendar/ical/enr5h00q4phjqisrbn85duccnk%40group.cal
 
 # Virtual Seminars in Economic Theory
 https://calendar.google.com/calendar/ical/ht917em01j5o4hmr47p5pj7llk%40group.calendar.google.com/public/basic.ics 
+
+# EPFL Virtual Innovation Seminar
+https://calendar.google.com/calendar/ical/ling.zhou.epfl%40gmail.com/public/basic.ics 
