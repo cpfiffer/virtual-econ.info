@@ -474,7 +474,7 @@ The Virtual Seminars in Economic Theory provides a platform for scholars to pres
 
 - [Website](https://sites.google.com/view/vset)
 - [Mailing list](https://forms.gle/tsecCsjXiGcrdAHi8)
-- [Google calendar](https://calendar.google.com/calendar/embed?src=ht917em01j5o4hmr47p5pj7llk%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+- [Google calendar](https://calendar.google.com/calendar?cid=dnNldGNvbnRhY3RAZ21haWwuY29t)
 
 ### Louvain Economics of Digitization Online Seminar
 
