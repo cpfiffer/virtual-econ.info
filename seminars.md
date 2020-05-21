@@ -482,3 +482,11 @@ LED is a research group focused on the Digital Economy. We launched a new intern
 
 - [Website](https://sites.google.com/view/louvain-ed/home)
 - [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfSgowEH4OzipsA73QQH8nfXDYHC6zCM-9Pyz8dQw7RiUGqcw/viewform?usp=sf_link)
+
+### POLECONUK Webinar
+
+The POLECONUK Webinar provides a platform for scholars to disseminate research in political economy to a broad academic audience in the United Kingdom and elsewhere. We are a part of the [POLECONUK](https://www.poleconuk.net/) network. 
+
+- [Website](https://sites.google.com/view/poleconuk-webinar)
+- [Mailing list](https://forms.gle/YgnFS74hkBegJRDa8)
+- [Google calendar](https://calendar.google.com/calendar?cid=cG9sZWNvbnVrLndlYmluYXJAZ21haWwuY29t)
