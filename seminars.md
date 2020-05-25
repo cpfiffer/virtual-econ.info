@@ -490,3 +490,11 @@ The POLECONUK Webinar provides a platform for scholars to disseminate research i
 - [Website](https://sites.google.com/view/poleconuk-webinar)
 - [Mailing list](https://forms.gle/YgnFS74hkBegJRDa8)
 - [Google calendar](https://calendar.google.com/calendar?cid=cG9sZWNvbnVrLndlYmluYXJAZ21haWwuY29t)
+
+### Virtual Finance Theory Seminar
+
+Meetings: Wednesdays, 12 noon ET (NY time) (currently 6pm Germany/France, 9am SF, 5pm London). Format: 40min talk, 10 min open discussion. Organizer: Linda Schilling (Ecole Polytechnique CREST).
+
+- [Website](https://sites.google.com/site/lindamarleneschilling/home)
+- [Info](https://drive.google.com/file/d/1FEnt42opuzpQiJtPUF1lHqN3Zdp9mdhZ/view)
+- [Mailing list](mailto:virtualfinancetheoryseminar.com)
