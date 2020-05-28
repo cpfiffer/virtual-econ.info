@@ -446,7 +446,7 @@ If you are interested in presenting please email us at [etos@freit.org](mailto:e
 
 The Applied Young Economist Webinar, organized by [Ashani Amarasinghe](https://ashaniamarasinghe.github.io/) (SoDa Laboratories, Monash Business School) and co-hosted by [Ivan Yotzov](https://warwick.ac.uk/fac/soc/economics/staff/iyotzov) (Warwick University), provides an ideal platform for PhD candidates and Post-Doctoral researchers to connect, interact and engage with each other, while sharing their enthusiasm for the discipline of Economics.
 
-- [Website](https://www.monash.edu/business/soda-labs/events)
+- [Website](https://www.monash.edu/business/soda-labs/events/applied-young-economist-webinar)
 - [Google calendar](https://calendar.google.com/calendar/embed?src=monash.edu_nrsqjtfkupfspfn8o4qq8tv43k%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ### Virtual AFE Seminar Series
