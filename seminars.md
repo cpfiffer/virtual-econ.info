@@ -498,3 +498,10 @@ Meetings: Wednesdays, 12 noon ET (NY time) (currently 6pm Germany/France, 9am SF
 - [Website](https://sites.google.com/site/lindamarleneschilling/home)
 - [Info](https://drive.google.com/file/d/1FEnt42opuzpQiJtPUF1lHqN3Zdp9mdhZ/view)
 - [Mailing list](mailto:virtualfinancetheoryseminar.com)
+
+### SWELL (Seminar in Water Economics onLLine)
+
+Meetings: Tuesdays at 11:30AM eastern time (5:30PM CEST). Format: 30 min talk, 15 min open discussion. Organizer: Erik ansink (Vrije Universiteit Amsterdam).
+
+- [Website](https://www.erikansink.com/swell/)
+- [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdAdT9gh4JcP0oy6hLVZD4kmks9imnBgetHHt8kNpJFa2OnBw/viewform)
