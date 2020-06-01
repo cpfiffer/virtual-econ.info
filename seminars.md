@@ -505,3 +505,9 @@ Meetings: Tuesdays at 11:30AM eastern time (5:30PM CEST). Format: 30 min talk, 1
 
 - [Website](https://www.erikansink.com/swell/)
 - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdAdT9gh4JcP0oy6hLVZD4kmks9imnBgetHHt8kNpJFa2OnBw/viewform)
+
+### The Land, Environment, Economics and Policy Institute's Seminars
+
+The LEEPout webinar series is a monthly seminar series hosted by The LEEP Institute, University of Exeter. It is designed as a platform for the very best researchers to showcase their work at the cutting edge of environmental and resource economics. Days vary each month, but talks are an hour from 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern). Registration is required for each talk.
+ 
+See [our website](http://www.exeter.ac.uk/leep/conferencesandseries/leepoutseminarseries/) for further updates, or [subscribe](http://eepurl.com/g2mpFb) to our mailing list.
