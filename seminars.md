@@ -4,6 +4,15 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+
+### ESA Junior Faculty Webinar
+
+Economic Science Association sponsored virtual seminar series in Experimental Economics featuring junior faculty with senior discussants. The virtual seminar series will run on Wednesdays starting from 10 June, at 7 AM PDT | 10 AM EDT | 3 PM London | 4 PM Central Europe | 10 PM Beijing | Midnight Melbourne.
+
+Each installment is organised as a smaller version of a session from the conference.  There will be two speakers, presenting papers in a similar area, each speaking for about 20 minutes, followed by a discussant, who will provide some questions and comments of their own as well as those of other attendees.  The whole session will run one hour.
+
+Register [here](https://forms.gle/QiBM78qPJGBvYipg9) and please visit [our website](https://www.economicscience.org/page/junior-faculty-webinar-series-2020) for more details.
+
 ### Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting 1 May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. Please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) to receive webinar links and visit [SAMVAAD's website](https://aadityadar.github.io/samvaad/) for more details.
