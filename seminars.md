@@ -511,3 +511,13 @@ Meetings: Tuesdays at 11:30AM eastern time (5:30PM CEST). Format: 30 min talk, 1
 The LEEPout webinar series is a monthly seminar series hosted by The LEEP Institute, University of Exeter. It is designed as a platform for the very best researchers to showcase their work at the cutting edge of environmental and resource economics. Days vary each month, but talks are an hour from 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern). Registration is required for each talk.
  
 See [our website](http://www.exeter.ac.uk/leep/conferencesandseries/leepoutseminarseries/) for further updates, or [subscribe](http://eepurl.com/g2mpFb) to our mailing list.
+
+### SoDa Labs 
+
+The SoDa Labs webinar provides a platform for researchers around the world to present work that uses novel and alternative data and/or tools from data science and beyond to answer social science questions.
+
+The webinar takes place on Tuesdays via zoom. The time of the seminar can vary depending on the location of the speaker. Please refer to the email announcement as well as the webinar calendar.
+
+- [Website](https://www.monash.edu/business/soda-labs/events/webinar-series)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=monash.edu_u5sgdd6ie087dvh8o8ot87emis%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+- [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfrTNsJzZa7JUL_UQSXap9lHr-56JdnQQQlOkrVZUtXZ8hrWg/viewform)
