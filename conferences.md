@@ -4,6 +4,27 @@
 
 A list of virtual conferences to learn about cool economics things without having to jump into a seething mass of plague vectors.
 
+### The Frontier of Economics + Computer Science - UBC-HKU Summer Theory Conference
+
+The UBC-HKU Summer Theory Conference is an annual event that alternates between Vancouver (University of British Columbia) and Hong Kong (University of Hong Kong). This year's conference will be held virtually.
+
+**Dates:** July 21st and 22nd 2020
+
+**Time:** 8am-2pm PDT / 11am-5pm EDT
+
+**Program and other details:** [Available here](https://ubcmicroworkshop.github.io/ubc-hku-2020/)
+
+**Registration:** Coming soon!
+
+**Organizing Committee:**
+- [Shunya Noda (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/shunya-noda/): Primary Contact (shunya.noda@ubc.ca)
+- [Vitor Farinha Luz (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
+- [Li, Hao (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/hao-li/)
+- [Wei Li (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/wei-li/)
+- [Michael Peters (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/michael-peters/)
+- [Sergei Severinov (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/sergei-severinov/)
+- [Wing Suen (HKU, Economics)](http://www.fbe.hku.hk/~wsuen/)
+
 ### Canadian Economic Theory Conference 2020
 
 This year's conference is organized by the University of British Columbia.
