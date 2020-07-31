@@ -4,6 +4,20 @@
 
 A list of virtual conferences to learn about cool economics things without having to jump into a seething mass of plague vectors.
 
+### Research Transparency and Reproducibility Training (RT2) (online training)
+
+The Berkeley Initiative for Transparency in the Social Sciences [(BITSS)](https://www.bitss.org/) will hold its next Research Transparency and Reproducibility Training (RT2) on September 21-25, with sessions taking place 8–11:30 am PT (GMT-7) daily.
+
+RT2 provides participants with an overview of tools and practices for transparent and reproducible social science research. The program is developed and delivered by leading academic researchers from across the social sciences and will provide participants with opportunities for collaborative work and skills-building. Participants will be able to exchange feedback and receive support from instructors through daily online discussion forums. Following the training, BITSS will also facilitate RT2 “office hours,” where participants will be able to meet individually with instructors and receive guidance on their own research questions and ideas.
+
+**Agenda:** [Available here](https://www.bitss.org/wp-content/uploads/2020/07/RT2_Agenda.pdf) 
+
+**Tuition Fee and Assistance**: $300 for participants affiliated with academic and non-profit institutions, and $600 for participants affiliated with for-profit, governmental, and other types of institutions. BITSS aims to select around 50 participants and offers tuition fee waivers for up to 40 participants.
+
+**Application:** [Available here](https://cega.submittable.com/submit/170347/bitss-research-and-transparency-training-rt2-2020)**.
+
+**Timeline:** Sunday, 11:59 pm PT August 16 for applicants who want to be considered for tuition fee waiver, and Sunday, 11:59 pm PT September 6, 2020 for self-funded participants.
+
 ### The Frontier of Economics + Computer Science - UBC-HKU Summer Theory Conference
 
 The UBC-HKU Summer Theory Conference is an annual event that alternates between Vancouver (University of British Columbia) and Hong Kong (University of Hong Kong). This year's conference will be held virtually.
