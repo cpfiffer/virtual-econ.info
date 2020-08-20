@@ -487,10 +487,9 @@ The Virtual Seminars in Economic Theory provides a platform for scholars to pres
 
 ### Louvain Economics of Digitization Online Seminar
 
-LED is a research group focused on the Digital Economy. We launched a new international online seminar (LED OS) open to everyone. The seminar takes place every Wednseday on Zoom, from 12:50 to 13:50 (CET). To register, please visit our website or click directly on the link below.
+LED is a research group focused on the Digital Economy. The second edition of the online seminar (LED OS) will start the 2nd of October. The seminar takes place twice a month on Friday on Zoom, from 15:00 to 16:00 (CET). For more information and registration, please visit our website.
 
 - [Website](https://sites.google.com/view/louvain-ed/home)
-- [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfSgowEH4OzipsA73QQH8nfXDYHC6zCM-9Pyz8dQw7RiUGqcw/viewform?usp=sf_link)
 
 ### POLECONUK Webinar
 
