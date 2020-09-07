@@ -167,13 +167,6 @@ Zoom ID for April 9th, 16th, and 22nd: 984 681 862
 - [The Tweet](https://twitter.com/pedrosaffi/status/1243645798983729152)
 - [Zoom link](https://zoom.us/j/496742494)
 
-### Online Urban Economics Seminar
-
-Weekly (or biweekly) seminar for urban economics and economic geography. Mondays at 12pm EDT. To get on the email list, send an email to [econ.urban.envi.online@gmail.com](mailto:econ.urban.envi.online@gmail.com).
-
-- [Website](https://sites.google.com/view/urban-econ-online)
-- [The Tweet](https://twitter.com/ChrisSeveren/status/1243590528559652869?s=20)
-
 ### Real Estate Research Seminar
 
 Research seminars for estate finance and economics. First Thursday of the month, 4-5 pm UK. Organised by [Thies Lindenthal](@thies), Land Economy, University of Cambridge.
@@ -274,14 +267,16 @@ Over the coming weeks, the RES will be holding a series of webinars with leading
 - [Zoom registration](https://zoom.us/webinar/register/WN_KJYgJqoLQoOYbmXhChqT6w)
 - [The Tweet](https://twitter.com/RoyalEconSoc/status/1246026120400711680)
 
-### Princeton: The economic implications of COVID-19
+### Online Spatial and Urban Seminar
 
-A webinar series from Princeton's Bendheim Center for Finance about the economic implications of COVID-19.
+The Online Spatial and Urban Seminar (OSUS) is organizing a twice monthly online seminar series on urban economics. We aim to provide engaging seminars featuring economists from a variety of institutions, experience levels, and fields unified by an interest in urban questions.
 
-- [Website](https://bcf.princeton.edu/event-directory/covid19/)
+At OSUS, we interpret "spatial and urban" broadly, recognizing that many fields utilize spatial variation and methods, and that a lot of economics takes place in cities! As such, we encourage participation from economists in fields including, but not limited to, housing, real estate, transportation, trade, local public goods provision, the spatial distribution of activities, economic geography, and urban or regional policy.
+
+- [Website](http://www.urbaneconomics.org/seminars/season02/)
+- [Webinar registration](https://zoom.us/webinar/register/WN_PtCY8y-OSmGh2ICEvW7r1Q)
 
 ### JKU: Online Economics Research Seminar 
-
 
 During the crisis the regular research seminars of the Department of Economics are online and will take place using zoom. We invite researchers from other universities and research institutions present their original research work. Papers from all areas of economics are welcome. 
 
