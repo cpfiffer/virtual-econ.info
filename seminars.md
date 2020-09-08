@@ -414,12 +414,12 @@ This Webinar has the objective to create a nice and friendly atmosphere for Grad
 - [Website](https://ysi.ineteconomics.org/project/5e960c11a6a5c2058bd1aa29)
 - [Register](https://forms.gle/WzTVhDxKhRkPwUUq7)
 
-### European Macro History Online Seminar 
+### International Macro History Online Seminar (IMHOS) 
 
-The Graduate Institute and a consortium of sixteen other institutions is launching a Europe-wide virtual seminar in Macroeconomic History. Every Tuesday 16:00 - 17:00 CEST.
+The Graduate Institute and a consortium of twenty-four other institutions are launching the International Macro History Online Seminar (IMHOS) series.
 
-- [Website](https://graduateinstitute.ch/communications/events/european-macro-history-online-seminar)
-- [Register](https://forms.gle/fFfLL9ZEX84Qsgsm8)
+- [Website](https://www.graduateinstitute.ch/research-centres/centre-finance-and-development/seminar-series#International%20Macro%20History%20Online%20Seminar)
+- [Register](https://us02web.zoom.us/webinar/register/WN_jnUQJBSdT6CZ4ZLdWDldfQ)
 
 
 ### MoFiR Virtual Seminars on Banking
