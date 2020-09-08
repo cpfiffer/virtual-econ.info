@@ -44,3 +44,6 @@ https://calendar.google.com/calendar/ical/nefcj6v6k2sck7dvlrks62n30k%40group.cal
 
 # SoDa Labs
 https://calendar.google.com/calendar/ical/monash.edu_u5sgdd6ie087dvh8o8ot87emis%40group.calendar.google.com/public/basic.ics
+
+# FutFinInfo Webinar
+https://ebox.su.se/owa/calendar/4650ff4e458e400c94209cc816b2ceea@sbs.su.se/428238f15a964e649186adc6a36f81d312964259601635224115/calendar.ics
