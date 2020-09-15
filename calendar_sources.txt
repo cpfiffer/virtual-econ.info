@@ -47,3 +47,6 @@ https://calendar.google.com/calendar/ical/monash.edu_u5sgdd6ie087dvh8o8ot87emis%
 
 # FutFinInfo Webinar
 https://ebox.su.se/owa/calendar/4650ff4e458e400c94209cc816b2ceea@sbs.su.se/428238f15a964e649186adc6a36f81d312964259601635224115/calendar.ics
+
+# Online Spatial and Urban Seminar (OSUS)
+https://calendar.google.com/calendar/ical/v017h914n03kdpqfk20v8avqcc%40group.calendar.google.com/private-b28b818098a9311a424d7e1ed9d08db7/basic.ics
