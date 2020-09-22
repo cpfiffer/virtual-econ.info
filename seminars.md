@@ -185,13 +185,12 @@ The format of the webinars will be as follows: the speaker will have 60 minutes 
 - [Mailing list](https://forms.gle/yohLo3pk898Yq9Sf9)
 - [Zoom link](https://www.google.com/url?q=https%3A%2F%2Fgeorgetown.zoom.us%2Fj%2F982163916&sa=D&sntz=1&usg=AFQjCNFKe0-pOjW0ze2WJhh3vvtSTaftIw)
 
-### Economic History Zoom Seminar Series
+### Virtual Economic History Seminar 
 
-A series of virtual seminars in economic history while we are all sheltering in place. We meet on Mondays from 11-noon Pacific / 2-3 pm Eastern / 8-9 pm Central European Summer Time. To receive seminar announcements or suggest a paper please sign up here. Organized by Petra Moser, Katherine Eriksson and Melissa Thomasson. 
+A series of serminars on economics history. Meets on Mondays 11-noon Vancouver / 2-3pm Boston / 7-8pm London.
 
-- [Website](http://www.petramoser.net/virthist.html)
+- [Website](https://warwick.ac.uk/fac/soc/economics/staff/crei/virhist/)
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSf5APYb_cfeJfKbuWDuoLb-2QlQ82YqrEhwfqbwRNi9v3u2jw/viewform)
-- [The Tweet](https://twitter.com/PMoserEcon/status/1244079573215498245?s=20)
 
 ### CEPR Virtual IO Seminar (VIOS)
 
