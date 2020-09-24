@@ -4,6 +4,10 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+### YSI Graduate Economic History Seminar
+
+The Economic History Working Group of the Young Scholars Initiative is pleased to announce the Fall/Winter program for its 2020-2021 Economic History Graduate Webinar Series. The webinar sessions will run for 60’ every other Tuesday on Zoom at 5pm CET (11am EDT, 8am PDT) starting the 29th of September. If you want to attend our webinar series, please register [here](https://docs.google.com/forms/d/e/1FAIpQLScGBDaidLh136VYBpJSyIA-6TXL14VZZTyPKR7P3v1iTBVp2g/viewform). The abstracts of the papers presented can be found in our [website](https://ysi.ineteconomics.org/project/5f316897689c756fb5c52785). 
+
 
 ### ESA Junior Faculty Webinar
 
