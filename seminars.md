@@ -527,3 +527,12 @@ The webinar takes place on Tuesdays via zoom. The time of the seminar can vary d
 - [Website](https://www.monash.edu/business/soda-labs/events/webinar-series)
 - [Google calendar](https://calendar.google.com/calendar/embed?src=monash.edu_u5sgdd6ie087dvh8o8ot87emis%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 - [Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfrTNsJzZa7JUL_UQSXap9lHr-56JdnQQQlOkrVZUtXZ8hrWg/viewform)
+
+## International Macro History Online Seminar Series
+The spring 2021 sessions of the International Macro History Online Seminar will run from 17 February to 12 May 2021 and will take place virtually every Wednesday at 17:00 (Geneva time). The seminars will run for 60 minutes with an extra optional 15 minutes for further discussion.
+
+- [Website](https://cepr.org/imhos)
+- [Registration](https://us02web.zoom.us/webinar/register/WN_DlhUutp0S7GhwrWsY0NVPQ)
+- [Contact] (imhos@cepr.org)
+
+
